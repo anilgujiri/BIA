@@ -1,0 +1,55 @@
+Statistics
+
+How to Learn Statistics for Data Science As A Self Starter
+
+Basics Stats
+--------------------------------
+Probability
+1. Random Variables
+2. Population,Sample,Population Mean,
+   Sample Mean
+3. Population Distribution, Sample Distribution 
+   and Sampling Distribution
+4. Mean, Median ,Mode
+5. Measure Of Dispersion,Variance, Standard Deviation
+6. Gaussian/Normal Distribution
+7. PDF and Histogram
+
+
+Intermediate Stats
+--------------------------------------
+
+8. Standard Normal Distribution
+9. Z score
+10. Probability Density Function
+11. Cumulative distribution function
+12. Hypothesis Testing
+13. Many different plotting graphs
+14. Kernel Density Estimation
+15. Central Limit Theorem
+16. Skewness of Data
+17 .Covariance 
+    Pearson Correlation Coefficient
+    Spearman Rank Correlation Coefficient
+    Importance of Correlation
+18. Hypothesis Testing
+    Null Hypothesis 
+    Alternative Hypothesis
+    Understanding Hypothesis testing
+    (T-test,Chi square test, p values)
+
+Advanced Stats
+-------------------------------------
+19. Q-Q plot
+20. Chebyshev’s inequality
+21. Discrete And Continuous Distribution
+22. Bernoulli And Binomial Distribution
+23. Log Normal Distribution
+24. Power Law Distribution
+25. Box Cox Tranform
+26. Poisson Distribution
+27. Application Of Non Gaussian Distribution
+
+
+
+
