@@ -1,0 +1,1300 @@
+,index,mid,date,venue,bat_team,bowl_team,batsman,bowler,runs,wickets,overs,runs_last_5,wickets_last_5,striker,non-striker,total
+0,7113,59,19/04/2009,Newlands,Kolkata Knight Riders,Deccan Chargers,CH Gayle,FH Edwards,1,0,0.3,1,0,1,0,101
+1,7114,59,19/04/2009,Newlands,Kolkata Knight Riders,Deccan Chargers,CH Gayle,FH Edwards,1,0,0.4,1,0,1,0,101
+2,7115,59,19/04/2009,Newlands,Kolkata Knight Riders,Deccan Chargers,CH Gayle,FH Edwards,1,0,0.5,1,0,1,0,101
+3,7116,59,19/04/2009,Newlands,Kolkata Knight Riders,Deccan Chargers,CH Gayle,FH Edwards,1,0,0.6,1,0,1,0,101
+4,7119,59,19/04/2009,Newlands,Kolkata Knight Riders,Deccan Chargers,CH Gayle,RP Singh,2,1,1.3,2,1,1,0,101
+5,7120,59,19/04/2009,Newlands,Kolkata Knight Riders,Deccan Chargers,CH Gayle,RP Singh,2,1,1.4,2,1,1,0,101
+6,7121,59,19/04/2009,Newlands,Kolkata Knight Riders,Deccan Chargers,CH Gayle,RP Singh,2,1,1.5,2,1,1,0,101
+7,7122,59,19/04/2009,Newlands,Kolkata Knight Riders,Deccan Chargers,CH Gayle,RP Singh,2,1,1.6,2,1,1,0,101
+8,7129,59,19/04/2009,Newlands,Kolkata Knight Riders,Deccan Chargers,CH Gayle,RP Singh,2,1,3.1,2,1,1,0,101
+9,7130,59,19/04/2009,Newlands,Kolkata Knight Riders,Deccan Chargers,CH Gayle,RP Singh,6,1,3.2,6,1,4,1,101
+10,7131,59,19/04/2009,Newlands,Kolkata Knight Riders,Deccan Chargers,CH Gayle,RP Singh,12,1,3.3,12,1,10,1,101
+11,7132,59,19/04/2009,Newlands,Kolkata Knight Riders,Deccan Chargers,CH Gayle,RP Singh,12,2,3.4,12,2,10,1,101
+12,8601,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,KP Pietersen,2,1,0.4,2,1,1,0,139
+13,8602,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,KP Pietersen,3,1,0.5,3,1,1,1,139
+14,8604,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,RE van der Merwe,3,1,1.1,3,1,1,1,139
+15,8605,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,RE van der Merwe,7,1,1.2,7,1,5,1,139
+16,8606,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,RE van der Merwe,8,1,1.3,8,1,6,1,139
+17,8608,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,RE van der Merwe,9,1,1.5,9,1,6,2,139
+18,8609,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,RE van der Merwe,13,1,1.6,13,1,10,2,139
+19,8613,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,KP Pietersen,18,1,2.4,18,1,14,3,139
+20,8614,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,KP Pietersen,23,1,2.4,23,1,14,3,139
+21,8615,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,KP Pietersen,23,1,2.5,23,1,14,3,139
+22,8616,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,KP Pietersen,23,1,2.6,23,1,14,3,139
+23,8623,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,37,1,4.1,37,1,17,14,139
+24,8624,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,39,1,4.2,39,1,17,16,139
+25,8625,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,39,1,4.3,39,1,17,16,139
+26,8626,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,43,1,4.4,43,1,20,17,139
+27,8627,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,43,1,4.5,43,0,20,17,139
+28,8628,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,44,1,4.6,43,0,21,17,139
+29,8629,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,A Kumble,44,1,5.1,43,0,21,17,139
+30,8630,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,A Kumble,44,1,5.2,42,0,21,17,139
+31,8631,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,A Kumble,45,1,5.3,43,0,22,17,139
+32,8635,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,45,2,6.1,38,1,22,0,139
+33,8636,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,45,2,6.2,37,1,22,0,139
+34,8637,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,46,2,6.3,37,1,23,0,139
+35,8639,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,48,2,6.5,35,1,24,1,139
+36,8641,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,A Kumble,48,2,7.1,35,1,24,1,139
+37,8642,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,A Kumble,52,2,7.2,38,1,28,1,139
+38,8643,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,A Kumble,53,2,7.3,35,1,29,1,139
+39,8647,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,54,2,8.1,31,1,30,1,139
+40,8651,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,55,3,8.5,22,2,30,1,139
+41,8652,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,56,3,8.6,19,2,31,1,139
+42,8653,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,RE van der Merwe,56,3,9.1,19,2,31,1,139
+43,8654,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,RE van der Merwe,57,3,9.2,18,2,32,1,139
+44,8657,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,RE van der Merwe,59,3,9.5,16,2,33,2,139
+45,8659,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,KP Pietersen,62,3,10.1,18,2,34,4,139
+46,8662,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,KP Pietersen,64,3,10.4,19,2,35,5,139
+47,8664,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,KP Pietersen,66,3,10.6,21,1,36,6,139
+48,8665,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,KP Appanna,70,3,11.1,25,1,40,6,139
+49,8666,71,29/04/2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,KP Appanna,70,4,11.2,25,2,40,6,139
+50,9597,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,5,0,0.6,5,0,3,1,153
+51,9598,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,IK Pathan,5,0,1.1,5,0,3,1,153
+52,9599,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,IK Pathan,5,0,1.2,5,0,3,1,153
+53,9600,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,IK Pathan,5,0,1.3,5,0,3,1,153
+54,9601,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,IK Pathan,5,0,1.4,5,0,3,1,153
+55,9602,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,IK Pathan,5,0,1.5,5,0,3,1,153
+56,9603,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,IK Pathan,7,0,1.6,7,0,3,3,153
+57,9605,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,YA Abdulla,8,0,2.2,8,0,4,3,153
+58,9606,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,YA Abdulla,8,0,2.3,8,0,4,3,153
+59,9607,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,YA Abdulla,8,0,2.4,8,0,4,3,153
+60,9608,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,YA Abdulla,9,0,2.5,9,0,4,4,153
+61,9610,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,IK Pathan,13,0,3.1,13,0,8,4,153
+62,9611,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,IK Pathan,14,0,3.2,14,0,9,4,153
+63,9617,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,YA Abdulla,19,0,4.1,19,0,13,4,153
+64,9618,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,YA Abdulla,23,0,4.2,23,0,17,4,153
+65,9619,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,YA Abdulla,23,0,4.3,23,0,17,4,153
+66,9620,79,03/05/2009,St George's Park,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,YA Abdulla,23,1,4.4,23,1,17,4,153
+67,15574,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,4,0,0.1,4,0,4,0,155
+68,15575,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,5,0,0.2,5,0,5,0,155
+69,15577,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,6,0,0.4,6,0,5,0,155
+70,15578,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,6,0,0.5,6,0,5,0,155
+71,15579,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,10,0,0.6,10,0,5,0,155
+72,15581,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Z Khan,11,0,1.2,11,0,5,1,155
+73,15582,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Z Khan,11,0,1.3,11,0,5,1,155
+74,15583,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Z Khan,11,0,1.4,11,0,5,1,155
+75,15584,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Z Khan,11,0,1.5,11,0,5,1,155
+76,15585,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Z Khan,11,0,1.6,11,0,5,1,155
+77,15599,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,29,0,4.1,29,0,17,5,155
+78,15600,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,29,0,4.2,29,0,17,5,155
+79,15601,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,29,0,4.3,29,0,17,5,155
+80,15602,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,33,0,4.4,33,0,17,9,155
+81,15603,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,34,0,4.5,34,0,17,10,155
+82,15605,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,34,0,5.1,29,0,17,10,155
+83,15606,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,35,0,5.1,29,0,17,10,155
+84,15607,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,35,0,5.2,29,0,17,10,155
+85,15608,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,36,0,5.2,30,0,17,10,155
+86,15609,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,37,0,5.3,27,0,17,11,155
+87,15613,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Harbhajan Singh,42,0,6.1,31,0,21,12,155
+88,15615,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Harbhajan Singh,44,0,6.3,33,0,21,13,155
+89,15618,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Harbhajan Singh,46,0,6.6,27,0,22,14,155
+90,15619,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,52,0,7.1,29,0,22,20,155
+91,15620,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,53,0,7.2,29,0,22,21,155
+92,15623,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,55,0,7.5,30,0,23,22,155
+93,15627,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Harbhajan Singh,57,0,8.3,28,0,25,22,155
+94,15628,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Harbhajan Singh,58,0,8.4,29,0,25,23,155
+95,15630,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Harbhajan Singh,60,0,8.6,31,0,26,24,155
+96,15631,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,R McLaren,61,0,9.1,32,0,26,25,155
+97,15633,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,R McLaren,63,0,9.3,29,0,27,26,155
+98,15635,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,R McLaren,65,0,9.5,31,0,28,27,155
+99,15637,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Harbhajan Singh,68,0,10.1,33,0,30,28,155
+100,15640,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Harbhajan Singh,70,0,10.4,33,0,31,29,155
+101,15643,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,R McLaren,71,1,11.0,29,1,29,0,155
+102,15644,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,R McLaren,71,1,11.1,28,1,29,0,155
+103,15645,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,R McLaren,72,1,11.2,28,1,30,0,155
+104,15647,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,R McLaren,73,1,11.4,28,1,30,1,155
+105,15648,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,R McLaren,74,1,11.5,28,1,31,1,155
+106,15650,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Harbhajan Singh,75,1,12.1,22,1,32,1,155
+107,15652,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Harbhajan Singh,78,1,12.3,24,1,34,2,155
+108,15653,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Harbhajan Singh,78,1,12.4,23,1,34,2,155
+109,15654,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Harbhajan Singh,79,1,12.5,23,1,35,2,155
+110,15657,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,85,1,13.2,28,1,39,4,155
+111,15658,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,86,1,13.3,28,1,40,4,155
+112,15663,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,95,1,14.2,32,1,41,12,155
+113,15665,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,96,1,14.4,31,1,41,13,155
+114,15666,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,97,1,14.4,30,1,41,13,155
+115,15667,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,98,1,14.5,30,1,42,13,155
+116,15669,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Z Khan,106,1,15.1,37,1,46,17,155
+117,15670,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Z Khan,110,1,15.2,40,1,50,17,155
+118,15671,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Z Khan,111,1,15.3,41,1,50,17,155
+119,15674,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Z Khan,118,1,15.6,47,0,56,18,155
+120,15676,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,120,1,16.2,47,0,57,19,155
+121,15678,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,123,1,16.4,49,0,59,20,155
+122,15679,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,DJ Bravo,124,1,16.5,50,0,59,20,155
+123,15682,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,R McLaren,130,1,17.2,52,0,63,22,155
+124,15683,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,R McLaren,134,1,17.3,56,0,67,22,155
+125,15684,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,R McLaren,136,1,17.4,57,0,69,22,155
+126,15685,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,R McLaren,137,1,17.5,57,0,70,22,155
+127,15687,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,140,1,18.1,55,0,71,24,155
+128,15689,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,142,1,18.3,54,0,72,25,155
+129,15691,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,144,1,18.4,51,0,72,26,155
+130,15692,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,SL Malinga,147,1,18.5,53,0,75,26,155
+131,15699,127,22/03/2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,CH Gayle,Z Khan,155,3,19.6,49,2,75,3,155
+132,16208,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,B Lee,0,0,0.1,0,0,0,0,183
+133,16209,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,B Lee,0,0,0.2,0,0,0,0,183
+134,16210,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,B Lee,4,0,0.3,4,0,4,0,183
+135,16211,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,B Lee,8,0,0.4,8,0,8,0,183
+136,16212,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,B Lee,11,0,0.4,11,0,10,0,183
+137,16213,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,B Lee,15,0,0.5,15,0,10,0,183
+138,16214,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,B Lee,19,0,0.6,19,0,14,0,183
+139,16221,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,SJ Srivastava,27,0,2.1,27,0,14,8,183
+140,16222,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,SJ Srivastava,27,0,2.2,27,0,14,8,183
+141,16223,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,SJ Srivastava,27,0,2.3,27,0,14,8,183
+142,16224,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,SJ Srivastava,28,0,2.3,28,0,14,8,183
+143,16225,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,SJ Srivastava,28,0,2.4,28,0,14,8,183
+144,16226,132,27/03/2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,CH Gayle,SJ Srivastava,28,1,2.5,28,1,14,8,183
+145,17221,140,01/04/2010,Eden Gardens,Kolkata Knight Riders,Deccan Chargers,CH Gayle,Jaskaran Singh,10,0,1.1,10,0,10,0,181
+146,17222,140,01/04/2010,Eden Gardens,Kolkata Knight Riders,Deccan Chargers,CH Gayle,Jaskaran Singh,10,0,1.2,10,0,10,0,181
+147,17223,140,01/04/2010,Eden Gardens,Kolkata Knight Riders,Deccan Chargers,CH Gayle,Jaskaran Singh,14,0,1.3,14,0,10,4,181
+148,17224,140,01/04/2010,Eden Gardens,Kolkata Knight Riders,Deccan Chargers,CH Gayle,Jaskaran Singh,14,0,1.4,14,0,10,4,181
+149,17225,140,01/04/2010,Eden Gardens,Kolkata Knight Riders,Deccan Chargers,CH Gayle,Jaskaran Singh,15,0,1.5,15,0,10,4,181
+150,17227,140,01/04/2010,Eden Gardens,Kolkata Knight Riders,Deccan Chargers,CH Gayle,A Symonds,15,0,2.1,15,0,10,4,181
+151,17228,140,01/04/2010,Eden Gardens,Kolkata Knight Riders,Deccan Chargers,CH Gayle,A Symonds,15,1,2.2,15,1,10,4,181
+152,17718,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,10,0,1.1,10,0,8,1,200
+153,17721,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,13,0,1.3,13,0,9,2,200
+154,17725,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,SJ Srivastava,17,0,2.1,17,0,13,2,200
+155,17726,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,SJ Srivastava,17,0,2.2,17,0,13,2,200
+156,17727,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,SJ Srivastava,21,0,2.3,21,0,13,6,200
+157,17728,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,SJ Srivastava,21,0,2.4,21,0,13,6,200
+158,17729,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,SJ Srivastava,21,0,2.5,21,0,13,6,200
+159,17730,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,SJ Srivastava,25,0,2.6,25,0,13,10,200
+160,17745,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,J Theron,51,0,5.2,46,0,34,14,200
+161,17746,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,J Theron,52,0,5.3,47,0,34,15,200
+162,17751,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,54,0,6.2,41,0,36,15,200
+163,17752,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,54,0,6.3,41,0,36,15,200
+164,17753,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,55,0,6.4,38,0,36,16,200
+165,17756,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RS Bopara,56,0,7.1,39,0,36,17,200
+166,17760,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RS Bopara,57,1,7.5,32,1,17,1,200
+167,17761,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RS Bopara,58,1,7.6,33,1,18,1,200
+168,17762,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,58,1,8.1,29,1,18,1,200
+169,17763,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,58,1,8.2,29,1,18,1,200
+170,17764,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,59,1,8.3,29,1,19,1,200
+171,17766,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,61,1,8.5,31,1,20,2,200
+172,17770,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RS Bopara,65,1,9.3,22,1,22,4,200
+173,17771,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RS Bopara,66,1,9.4,23,1,23,4,200
+174,17776,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,71,1,10.3,19,1,24,8,200
+175,17778,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,72,1,10.5,20,1,24,9,200
+176,17779,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RR Powar,78,1,10.6,25,1,30,9,200
+177,17781,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,PP Chawla,80,1,11.2,26,1,30,10,200
+178,17784,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,PP Chawla,85,1,11.5,30,1,34,11,200
+179,17785,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,PP Chawla,89,1,11.6,34,1,38,11,200
+180,17787,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RS Bopara,96,1,12.2,40,0,44,12,200
+181,17788,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RS Bopara,102,1,12.3,46,0,50,12,200
+182,17789,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RS Bopara,108,1,12.4,51,0,56,12,200
+183,17790,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RS Bopara,114,1,12.5,57,0,62,12,200
+184,17791,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RS Bopara,119,1,12.5,61,0,62,12,200
+185,17792,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,RS Bopara,121,1,12.5,63,0,62,12,200
+186,17795,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,IK Pathan,127,1,13.2,67,0,66,14,200
+187,17796,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,IK Pathan,128,1,13.3,67,0,67,14,200
+188,17799,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,IK Pathan,133,1,13.6,70,0,67,19,200
+189,17801,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,PP Chawla,140,1,14.2,74,0,73,20,200
+190,17802,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,PP Chawla,141,1,14.3,73,0,74,20,200
+191,17804,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,PP Chawla,148,1,14.5,79,0,80,21,200
+192,17805,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,PP Chawla,149,1,14.6,79,0,81,21,200
+193,17806,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,J Theron,150,1,15.1,79,0,82,21,200
+194,17808,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,J Theron,157,1,15.3,85,0,88,22,200
+195,17809,144,04/04/2010,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,CH Gayle,J Theron,157,2,15.4,79,1,88,22,200
+196,18345,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,DL Vettori,9,0,1.2,9,0,8,1,181
+197,18351,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,MF Maharoof,23,0,2.1,23,0,20,2,181
+198,18355,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,MF Maharoof,28,0,2.5,28,0,25,2,181
+199,18356,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,MF Maharoof,32,0,2.6,32,0,25,6,181
+200,18363,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,PJ Sangwan,38,0,3.6,38,0,26,10,181
+201,18371,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,A Mishra,41,0,4.6,35,0,27,10,181
+202,18376,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,PJ Sangwan,46,0,5.5,33,0,32,10,181
+203,18377,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,PJ Sangwan,50,0,5.6,37,0,32,14,181
+204,18379,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,A Mishra,57,0,6.2,39,0,33,20,181
+205,18380,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,A Mishra,57,0,6.3,35,0,33,20,181
+206,18381,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,A Mishra,57,0,6.4,34,0,33,20,181
+207,18382,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,A Mishra,61,0,6.5,34,0,33,24,181
+208,18383,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,A Mishra,65,0,6.6,38,0,33,28,181
+209,18385,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,PD Collingwood,67,0,7.2,39,0,34,29,181
+210,18388,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,PD Collingwood,69,0,7.5,36,0,35,30,181
+211,18390,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,R Bhatia,74,0,8.1,41,0,39,31,181
+212,18393,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,R Bhatia,76,0,8.4,38,0,40,32,181
+213,18398,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,PD Collingwood,85,0,9.3,45,0,48,33,181
+214,18401,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,PD Collingwood,87,0,9.5,46,0,49,33,181
+215,18402,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,PD Collingwood,88,0,9.6,43,0,49,34,181
+216,18403,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,R Bhatia,94,0,10.1,49,0,49,40,181
+217,18404,149,07/04/2010,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,CH Gayle,R Bhatia,94,1,10.2,49,1,49,40,181
+218,18842,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,2,0,0.4,2,0,1,0,160
+219,18843,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,3,0,0.5,3,0,1,1,160
+220,18845,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,DW Steyn,7,0,1.1,7,0,5,1,160
+221,18846,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,DW Steyn,7,0,1.2,7,0,5,1,160
+222,18847,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,DW Steyn,11,0,1.3,11,0,5,5,160
+223,18848,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,DW Steyn,12,0,1.4,12,0,6,5,160
+224,18851,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,12,0,2.1,12,0,6,5,160
+225,18852,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,13,0,2.2,13,0,7,5,160
+226,18854,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,15,0,2.4,15,0,8,6,160
+227,18856,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,17,0,2.5,17,0,8,7,160
+228,18857,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,21,0,2.6,21,0,12,7,160
+229,18862,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,DW Steyn,26,0,3.5,26,0,16,8,160
+230,18863,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,DW Steyn,30,0,3.6,30,0,20,8,160
+231,18867,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,41,0,4.4,41,0,24,15,160
+232,18868,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,47,0,4.5,47,0,30,15,160
+233,18869,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,P Kumar,51,0,4.6,51,0,34,15,160
+234,18871,153,10/04/2010,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,CH Gayle,JH Kallis,52,1,5.2,51,1,34,16,160
+235,19470,158,13/04/2010,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,CH Gayle,R Ashwin,2,0,0.4,2,0,1,1,139
+236,19472,158,13/04/2010,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,CH Gayle,R Ashwin,3,0,0.6,3,0,2,1,139
+237,19479,158,13/04/2010,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,CH Gayle,R Ashwin,17,0,2.1,17,0,10,7,139
+238,19480,158,13/04/2010,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,CH Gayle,R Ashwin,17,1,2.2,17,1,10,7,139
+239,24990,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,0,0,0.1,0,0,0,0,181
+240,24991,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,0,0,0.2,0,0,0,0,181
+241,24992,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,0,0,0.3,0,0,0,0,181
+242,24993,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,2,0,0.4,2,0,2,0,181
+243,24994,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,2,0,0.5,2,0,2,0,181
+244,24995,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,3,0,0.6,3,0,3,0,181
+245,24996,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,JE Taylor,4,0,1.1,4,0,4,0,181
+246,25002,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,Kamran Khan,12,0,2.1,12,0,8,4,181
+247,25003,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,Kamran Khan,12,0,2.2,12,0,8,4,181
+248,25004,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,Kamran Khan,18,0,2.3,18,0,14,4,181
+249,25005,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,Kamran Khan,18,0,2.4,18,0,14,4,181
+250,25006,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,Kamran Khan,24,0,2.5,24,0,20,4,181
+251,25007,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,Kamran Khan,28,0,2.6,28,0,24,4,181
+252,25011,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,JE Taylor,32,0,3.4,32,0,25,7,181
+253,25017,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,39,0,4.4,39,0,26,13,181
+254,25019,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,40,0,4.6,40,0,26,14,181
+255,25021,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,Kamran Khan,41,0,5.2,41,0,26,15,181
+256,25022,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,Kamran Khan,45,0,5.3,45,0,30,15,181
+257,25023,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,Kamran Khan,51,0,5.4,49,0,36,15,181
+258,25024,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,Kamran Khan,57,0,5.5,55,0,42,15,181
+259,25025,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,Kamran Khan,57,0,5.6,54,0,42,15,181
+260,25033,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,M Manhas,60,1,7.2,48,1,43,2,181
+261,25037,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,M Manhas,67,1,7.6,39,1,45,7,181
+262,25039,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,R Sharma,69,1,8.2,39,1,45,8,181
+263,25042,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,R Sharma,74,1,8.5,38,1,49,9,181
+264,25043,203,29/04/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,R Sharma,74,2,8.6,37,2,49,9,181
+265,26474,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,0,0,0.1,0,0,0,0,205
+266,26475,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,0,0,0.2,0,0,0,0,205
+267,26476,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,4,0,0.3,4,0,4,0,205
+268,26477,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,5,0,0.4,5,0,5,0,205
+269,26480,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,9,0,1.1,9,0,5,4,205
+270,26481,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,9,0,1.2,9,0,5,4,205
+271,26482,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,9,0,1.3,9,0,5,4,205
+272,26483,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,9,0,1.4,9,0,5,4,205
+273,26484,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,9,0,1.5,9,0,5,4,205
+274,26485,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,12,0,1.6,12,0,5,4,205
+275,26486,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,12,0,2.1,12,0,5,4,205
+276,26487,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,12,0,2.2,12,0,5,4,205
+277,26488,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,13,0,2.3,13,0,6,4,205
+278,26492,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,23,0,3.1,23,0,12,8,205
+279,26493,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,29,0,3.2,29,0,18,8,205
+280,26494,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,30,0,3.3,30,0,19,8,205
+281,26498,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,R McLaren,38,0,4.1,38,0,19,16,205
+282,26499,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,R McLaren,42,0,4.2,42,0,23,16,205
+283,26500,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,R McLaren,42,0,4.3,42,0,23,16,205
+284,26501,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,R McLaren,43,0,4.4,43,0,24,16,205
+285,26503,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,R McLaren,47,1,4.6,47,1,28,0,205
+286,26509,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,48,1,5.6,39,1,28,1,205
+287,26516,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,R McLaren,55,1,6.6,43,1,29,6,205
+288,26517,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,61,1,7.1,49,1,35,6,205
+289,26518,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,67,1,7.2,54,1,41,6,205
+290,26519,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,71,1,7.3,58,1,45,6,205
+291,26520,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,72,1,7.4,55,1,46,6,205
+292,26522,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,77,1,7.6,54,1,50,7,205
+293,26527,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,L Ablish,88,1,8.5,50,1,56,12,205
+294,26528,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,L Ablish,89,1,8.6,51,1,57,12,205
+295,26529,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,95,1,9.1,53,1,63,12,205
+296,26530,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,101,1,9.2,59,1,69,12,205
+297,26531,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,101,1,9.3,58,1,69,12,205
+298,26532,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,102,1,9.4,59,0,70,12,205
+299,26538,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,L Ablish,114,1,10.4,66,0,74,20,205
+300,26539,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,L Ablish,118,1,10.5,70,0,78,20,205
+301,26540,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,L Ablish,122,1,10.6,74,0,82,20,205
+302,26547,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AM Nayar,126,1,12.1,65,0,82,24,205
+303,26548,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AM Nayar,126,1,12.2,59,0,82,24,205
+304,26549,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AM Nayar,127,1,12.3,56,0,83,24,205
+305,26551,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AM Nayar,134,1,12.5,61,0,89,25,205
+306,26552,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AM Nayar,135,1,12.6,58,0,90,25,205
+307,26553,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,R McLaren,141,1,13.1,64,0,96,25,205
+308,26554,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,R McLaren,142,1,13.2,61,0,97,25,205
+309,26557,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,R McLaren,145,1,13.5,57,0,99,26,205
+310,26558,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,R McLaren,149,1,13.6,60,0,103,26,205
+311,26560,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,150,1,14.2,49,0,103,27,205
+312,26561,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,154,1,14.3,53,0,107,27,205
+313,26562,215,06/05/2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,154,2,14.4,52,1,107,27,205
+314,29064,236,24/05/2011,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JA Morkel,5,0,0.4,5,0,4,0,175
+315,29065,236,24/05/2011,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JA Morkel,6,0,0.5,6,0,4,1,175
+316,29070,236,24/05/2011,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DE Bollinger,12,0,1.4,12,0,6,1,175
+317,29071,236,24/05/2011,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DE Bollinger,12,0,1.5,12,0,6,1,175
+318,29072,236,24/05/2011,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DE Bollinger,12,0,1.6,12,0,6,1,175
+319,29076,236,24/05/2011,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JA Morkel,22,0,2.4,22,0,15,2,175
+320,29079,236,24/05/2011,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,24,0,3.1,24,0,17,2,175
+321,29080,236,24/05/2011,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,30,0,3.2,30,0,17,8,175
+322,29081,236,24/05/2011,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,30,1,3.3,30,1,17,8,175
+323,29311,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,AN Ahmed,2,0,0.1,2,0,0,0,185
+324,29312,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,AN Ahmed,6,0,0.2,6,0,4,0,185
+325,29313,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,AN Ahmed,10,0,0.3,10,0,8,0,185
+326,29314,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,AN Ahmed,15,0,0.3,15,0,8,0,185
+327,29315,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,AN Ahmed,21,0,0.4,21,0,14,0,185
+328,29316,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,AN Ahmed,23,0,0.5,23,0,16,0,185
+329,29317,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,AN Ahmed,27,0,0.6,27,0,20,0,185
+330,29325,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,40,0,2.1,40,0,24,8,185
+331,29326,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,40,0,2.2,40,0,24,8,185
+332,29327,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,44,0,2.3,44,0,28,8,185
+333,29328,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,44,0,2.4,44,0,28,8,185
+334,29329,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,45,0,2.5,45,0,29,8,185
+335,29336,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,57,0,3.6,57,0,29,20,185
+336,29339,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,62,0,4.3,62,0,33,21,185
+337,29340,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,66,0,4.4,64,0,37,21,185
+338,29341,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,67,0,4.5,65,0,38,21,185
+339,29343,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,67,0,5.1,57,0,38,21,185
+340,29344,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,67,0,5.2,52,0,38,21,185
+341,29345,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,67,0,5.3,46,0,38,21,185
+342,29346,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,68,0,5.4,45,0,39,21,185
+343,29349,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,69,0,6.1,38,0,40,21,185
+344,29351,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,74,0,6.3,42,0,44,22,185
+345,29352,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,74,0,6.4,38,0,44,22,185
+346,29353,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,75,0,6.5,39,0,45,22,185
+347,29359,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,RG Sharma,88,0,7.5,43,0,46,34,185
+348,29361,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,91,0,8.1,45,0,47,36,185
+349,29363,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,93,0,8.3,37,0,48,37,185
+350,29365,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,95,0,8.4,38,0,48,38,185
+351,29366,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,99,0,8.5,42,0,52,38,185
+352,29367,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,100,0,8.6,43,0,53,38,185
+353,29368,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,AN Ahmed,101,0,9.1,43,0,54,38,185
+354,29371,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,AN Ahmed,103,0,9.3,36,0,54,39,185
+355,29372,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,AN Ahmed,104,0,9.4,37,0,55,39,185
+356,29374,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,AN Ahmed,111,0,9.6,44,0,61,40,185
+357,29376,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,113,0,10.2,45,0,62,41,185
+358,29379,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,114,1,10.5,45,1,63,0,185
+359,29381,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,115,1,11.1,41,1,64,0,185
+360,29383,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,117,1,11.3,42,1,65,1,185
+361,29385,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,118,1,11.5,42,1,65,2,185
+362,29386,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,119,1,11.6,39,1,66,2,185
+363,29387,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,121,1,12.1,35,1,68,2,185
+364,29388,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,121,1,12.2,34,1,68,2,185
+365,29389,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,122,1,12.2,34,1,68,2,185
+366,29390,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,123,1,12.3,33,1,69,2,185
+367,29393,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,130,1,12.6,37,1,75,3,185
+368,29395,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,137,1,13.2,42,1,81,4,185
+369,29396,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,143,1,13.3,44,1,87,4,185
+370,29397,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,144,1,13.4,44,1,88,4,185
+371,29401,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,147,1,14.2,44,1,89,6,185
+372,29403,238,27/05/2011,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,148,2,14.4,43,2,89,7,185
+373,30999,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,7,0,0.4,7,0,5,2,205
+374,31000,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,7,0,0.5,7,0,5,2,205
+375,31001,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,9,0,0.6,9,0,5,4,205
+376,31008,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DE Bollinger,15,0,1.6,15,0,10,4,205
+377,31022,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,39,0,4.2,39,0,33,5,205
+378,31027,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JA Morkel,52,0,5.1,48,0,45,6,205
+379,31032,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JA Morkel,55,1,5.5,45,1,7,1,205
+380,31035,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DJ Bravo,58,1,6.2,44,1,8,3,205
+381,31040,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JA Morkel,63,1,7.1,48,1,9,7,205
+382,31042,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JA Morkel,65,1,7.2,44,1,9,8,205
+383,31043,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JA Morkel,66,1,7.3,41,1,10,8,205
+384,31046,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JA Morkel,68,1,7.5,38,1,10,9,205
+385,31047,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JA Morkel,69,1,7.6,39,1,11,9,205
+386,31048,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,75,1,8.1,45,1,17,9,205
+387,31049,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,81,1,8.2,45,1,23,9,205
+388,31050,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,82,1,8.3,45,1,24,9,205
+389,31052,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,84,1,8.4,45,1,24,10,205
+390,31053,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,90,1,8.5,45,1,30,10,205
+391,31054,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,90,1,8.6,45,1,30,10,205
+392,31057,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DJ Bravo,92,1,9.3,40,1,31,11,205
+393,31061,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JA Morkel,97,1,10.1,43,0,32,15,205
+394,31063,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JA Morkel,99,1,10.3,43,0,33,16,205
+395,31068,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SB Jakati,110,1,11.1,48,0,33,22,205
+396,31069,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SB Jakati,111,1,11.2,49,0,34,22,205
+397,31071,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SB Jakati,116,1,11.4,52,0,38,23,205
+398,31072,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SB Jakati,117,1,11.5,52,0,39,23,205
+399,31075,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DJ Bravo,120,1,12.2,53,0,40,25,205
+400,31077,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DJ Bravo,122,1,12.4,53,0,41,26,205
+401,31080,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SB Jakati,122,1,13.1,40,0,41,26,205
+402,31081,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SB Jakati,128,1,13.2,45,0,47,26,205
+403,31082,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SB Jakati,134,1,13.3,50,0,53,26,205
+404,31083,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SB Jakati,135,1,13.4,45,0,54,26,205
+405,31086,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DJ Bravo,141,1,14.1,50,0,60,26,205
+406,31087,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DJ Bravo,142,1,14.2,50,0,61,26,205
+407,31090,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DJ Bravo,144,1,14.4,48,0,61,27,205
+408,31091,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DJ Bravo,145,1,14.5,48,0,62,27,205
+409,31093,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,150,1,15.1,51,0,63,31,205
+410,31096,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,159,1,15.4,55,0,67,36,205
+411,31097,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,160,1,15.5,55,0,68,36,205
+412,31100,252,12/04/2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,RA Jadeja,162,2,16.2,50,1,68,38,205
+413,33275,270,23/04/2012,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,GB Hogg,62,2,9.6,35,1,27,1,189
+414,33276,270,23/04/2012,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,A Chandila,62,2,10.1,34,1,27,1,189
+415,33277,270,23/04/2012,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,A Chandila,62,2,10.2,33,1,27,1,189
+416,33278,270,23/04/2012,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,A Chandila,63,2,10.3,34,1,27,2,189
+417,33280,270,23/04/2012,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,A Chandila,64,2,10.5,31,1,28,2,189
+418,33281,270,23/04/2012,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,A Chandila,64,2,10.6,27,1,28,2,189
+419,33284,270,23/04/2012,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,GB Hogg,67,2,11.3,28,1,29,4,189
+420,33285,270,23/04/2012,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,GB Hogg,67,3,11.4,28,2,29,4,189
+421,34699,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,8,1,1.6,8,1,1,0,158
+422,34701,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,9,1,2.2,9,1,2,0,158
+423,34702,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,9,1,2.3,9,1,2,0,158
+424,34703,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,10,1,2.4,10,1,2,1,158
+425,34706,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,10,1,3.1,10,1,2,1,158
+426,34707,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,11,1,3.2,11,1,2,2,158
+427,34709,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,16,1,3.4,16,1,6,3,158
+428,34710,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,20,1,3.5,20,1,10,3,158
+429,34711,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,RJ Harris,24,1,3.6,24,1,14,3,158
+430,34720,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,30,1,5.3,30,1,14,9,158
+431,34721,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,31,1,5.4,31,1,15,9,158
+432,34723,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,33,1,5.6,32,1,16,10,158
+433,34724,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,33,1,6.1,26,1,16,10,158
+434,34725,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,34,1,6.2,27,1,17,10,158
+435,34727,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,35,1,6.4,28,0,17,11,158
+436,34728,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,36,1,6.5,28,0,18,11,158
+437,34732,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,43,1,7.3,34,0,19,17,158
+438,34737,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,46,1,8.2,35,0,20,19,158
+439,34741,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,48,1,8.6,24,0,21,20,158
+440,34742,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,54,1,9.1,30,0,27,20,158
+441,34743,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,55,1,9.2,31,0,28,20,158
+442,34748,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,59,1,10.1,30,0,28,24,158
+443,34749,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,61,1,10.2,31,0,30,24,158
+444,34750,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,61,1,10.3,31,0,30,24,158
+445,34751,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,62,1,10.4,31,0,31,24,158
+446,34753,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,64,1,10.6,31,0,32,25,158
+447,34754,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,70,1,11.1,37,0,38,25,158
+448,34755,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,72,1,11.1,38,0,38,25,158
+449,34757,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,74,1,11.3,39,0,39,26,158
+450,34761,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,84,1,12.1,42,0,41,34,158
+451,34762,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,85,1,12.1,42,0,41,34,158
+452,34763,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,86,1,12.2,43,0,42,34,158
+453,34765,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,91,1,12.4,47,0,46,35,158
+454,34766,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,95,1,12.5,50,0,50,35,158
+455,34767,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,101,1,12.6,55,0,56,35,158
+456,34770,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AM Nayar,109,1,13.3,62,0,57,42,158
+457,34772,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AM Nayar,116,1,13.5,62,0,63,43,158
+458,34773,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AM Nayar,117,1,13.6,62,0,64,43,158
+459,34774,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,DJ Hussey,118,1,14.1,59,0,65,43,158
+460,34776,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,DJ Hussey,120,1,14.3,61,0,66,44,158
+461,34778,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,DJ Hussey,121,1,14.5,62,0,66,45,158
+462,34779,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,DJ Hussey,122,1,14.6,61,0,67,45,158
+463,34780,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,126,1,15.1,65,0,71,45,158
+464,34781,282,02/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,126,2,15.2,64,1,71,45,158
+465,36176,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,K Upadhyay,0,0,0.1,0,0,0,0,173
+466,36177,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,K Upadhyay,0,0,0.2,0,0,0,0,173
+467,36178,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,K Upadhyay,0,0,0.3,0,0,0,0,173
+468,36179,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,K Upadhyay,1,0,0.4,1,0,1,0,173
+469,36181,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,K Upadhyay,3,0,0.6,3,0,2,1,173
+470,36182,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,5,0,1.0,5,0,3,1,173
+471,36187,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,10,0,1.5,10,0,6,3,173
+472,36188,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,11,0,1.6,11,0,6,4,173
+473,36189,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,K Upadhyay,17,0,2.1,17,0,10,6,173
+474,36190,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,K Upadhyay,17,0,2.2,17,0,10,6,173
+475,36191,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,K Upadhyay,17,0,2.3,17,0,10,6,173
+476,36192,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,K Upadhyay,18,0,2.4,18,0,11,6,173
+477,36194,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,K Upadhyay,25,0,2.6,25,0,17,7,173
+478,36199,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,29,0,3.4,29,0,17,8,173
+479,36200,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,29,0,3.5,29,0,17,8,173
+480,36201,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,29,0,3.6,29,0,17,8,173
+481,36204,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,31,0,4.3,31,0,18,9,173
+482,36207,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,37,0,4.5,37,0,22,10,173
+483,36208,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AC Thomas,41,0,4.6,41,0,26,10,173
+484,36210,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,48,0,5.2,46,0,32,11,173
+485,36211,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,48,0,5.3,45,0,32,11,173
+486,36212,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,54,0,5.4,49,0,38,11,173
+487,36213,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,60,0,5.5,51,0,44,11,173
+488,36214,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,66,0,5.6,57,0,50,11,173
+489,36217,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AD Mathews,67,0,6.3,57,0,50,12,173
+490,36218,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AD Mathews,68,0,6.3,57,0,50,12,173
+491,36219,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AD Mathews,68,0,6.4,51,0,50,12,173
+492,36220,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AD Mathews,69,0,6.5,52,0,51,12,173
+493,36222,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,R Sharma,73,0,7.1,55,0,55,12,173
+494,36223,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,R Sharma,74,0,7.2,55,0,56,12,173
+495,36226,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,R Sharma,76,0,7.5,48,0,57,13,173
+496,36230,294,11/05/2012,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AD Mathews,80,1,8.3,51,1,57,17,173
+497,36794,299,14/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,0,0,0.1,0,0,0,0,171
+498,36795,299,14/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,0,0,0.2,0,0,0,0,171
+499,36796,299,14/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,0,0,0.3,0,0,0,0,171
+500,36797,299,14/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,0,0,0.4,0,0,0,0,171
+501,36798,299,14/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,0,0,0.5,0,0,0,0,171
+502,36799,299,14/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,6,0,0.6,6,0,6,0,171
+503,36805,299,14/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,RP Singh,7,0,1.6,7,0,6,1,171
+504,36807,299,14/05/2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,8,1,2.2,8,1,6,2,171
+505,37416,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,1,0,0.1,1,0,1,0,215
+506,37422,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,UT Yadav,11,0,1.1,11,0,10,1,215
+507,37423,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,UT Yadav,11,0,1.2,11,0,10,1,215
+508,37424,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,UT Yadav,11,0,1.3,11,0,10,1,215
+509,37425,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,UT Yadav,11,0,1.4,11,0,10,1,215
+510,37426,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,UT Yadav,11,0,1.5,11,0,10,1,215
+511,37427,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,UT Yadav,11,0,1.6,11,0,10,1,215
+512,37430,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,VR Aaron,11,1,2.3,11,1,1,0,215
+513,37431,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,VR Aaron,11,1,2.4,11,1,1,0,215
+514,37432,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,VR Aaron,15,1,2.5,15,1,5,0,215
+515,37433,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,VR Aaron,19,1,2.6,19,1,9,0,215
+516,37439,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,UT Yadav,30,1,3.6,30,1,11,9,215
+517,37447,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,39,1,5.1,38,1,19,9,215
+518,37448,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,40,1,5.2,39,1,19,10,215
+519,37451,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,42,1,5.4,31,1,20,10,215
+520,37452,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,42,1,5.5,31,1,20,10,215
+521,37453,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,42,1,5.6,31,1,20,10,215
+522,37456,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,47,1,6.3,36,1,21,14,215
+523,37457,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,48,1,6.4,37,1,21,15,215
+524,37461,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,56,1,7.2,45,0,25,19,215
+525,37462,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,56,1,7.3,41,0,25,19,215
+526,37463,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,62,1,7.4,43,0,25,25,215
+527,37464,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,63,1,7.5,42,0,26,25,215
+528,37468,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,P Negi,65,1,8.3,35,0,27,26,215
+529,37469,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,P Negi,66,1,8.4,36,0,27,27,215
+530,37472,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Y Venugopal Rao,66,1,9.1,32,0,27,27,215
+531,37473,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Y Venugopal Rao,67,1,9.2,33,0,28,27,215
+532,37476,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Y Venugopal Rao,78,1,9.5,39,0,34,32,215
+533,37477,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Y Venugopal Rao,79,1,9.6,40,0,35,32,215
+534,37478,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,80,1,10.1,40,0,36,32,215
+535,37481,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,81,1,10.4,39,0,36,33,215
+536,37482,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,82,1,10.5,40,0,37,33,215
+537,37485,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,P Negi,84,1,11.2,41,0,37,35,215
+538,37486,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,P Negi,85,1,11.3,38,0,38,35,215
+539,37488,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,P Negi,92,1,11.5,42,0,44,36,215
+540,37489,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,P Negi,96,1,11.6,45,0,48,36,215
+541,37491,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,101,1,12.2,45,0,52,37,215
+542,37492,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,101,1,12.3,45,0,52,37,215
+543,37493,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,103,1,12.4,41,0,54,37,215
+544,37494,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,107,1,12.5,44,0,58,37,215
+545,37495,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,108,1,12.6,44,0,59,37,215
+546,37496,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,109,1,13.1,45,0,60,37,215
+547,37498,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,116,1,13.3,51,0,66,38,215
+548,37499,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,116,1,13.4,50,0,66,38,215
+549,37500,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,122,1,13.5,56,0,72,38,215
+550,37501,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,128,1,13.6,62,0,78,38,215
+551,37503,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,VR Aaron,130,1,14.2,63,0,79,39,215
+552,37506,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,VR Aaron,136,1,14.5,58,0,80,44,215
+553,37509,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,P Negi,144,1,15.2,64,0,86,46,215
+554,37510,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,P Negi,150,1,15.3,69,0,92,46,215
+555,37511,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,P Negi,156,1,15.4,75,0,98,46,215
+556,37512,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,P Negi,157,1,15.5,75,0,99,46,215
+557,37514,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,UT Yadav,160,1,16.1,76,0,100,48,215
+558,37516,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,UT Yadav,168,1,16.2,83,0,106,49,215
+559,37517,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,UT Yadav,174,1,16.3,88,0,112,49,215
+560,37518,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,UT Yadav,175,1,16.4,83,0,113,49,215
+561,37524,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,187,1,17.4,80,0,119,55,215
+562,37525,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,AD Russell,188,1,17.5,80,0,120,55,215
+563,37528,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,UT Yadav,191,1,18.2,75,0,121,57,215
+564,37535,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,VR Aaron,204,1,19.2,69,0,121,69,215
+565,37536,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,VR Aaron,210,1,19.3,74,0,127,69,215
+566,37537,304,17/05/2012,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,VR Aaron,211,1,19.4,74,0,128,69,215
+567,38781,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MG Johnson,0,0,0.1,0,0,0,0,156
+568,38782,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MG Johnson,0,0,0.2,0,0,0,0,156
+569,38783,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MG Johnson,1,0,0.3,1,0,1,0,156
+570,38787,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,1,0,1.1,1,0,1,0,156
+571,38788,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,2,0,1.2,2,0,2,0,156
+572,38793,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MG Johnson,3,0,2.1,3,0,3,0,156
+573,38798,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MG Johnson,9,1,2.5,9,1,5,3,156
+574,38799,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MG Johnson,9,1,2.6,9,1,5,3,156
+575,38812,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JDP Oram,29,2,5.0,29,2,3,0,156
+576,38813,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JDP Oram,30,2,5.1,29,2,4,0,156
+577,38817,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JDP Oram,31,2,5.5,30,2,4,1,156
+578,38818,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JDP Oram,31,2,5.6,29,2,4,1,156
+579,38823,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JJ Bumrah,32,3,6.5,29,3,4,1,156
+580,38824,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JJ Bumrah,36,3,6.6,33,2,4,1,156
+581,38829,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JDP Oram,38,3,7.4,29,2,4,2,156
+582,38830,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JDP Oram,40,3,7.5,31,2,6,2,156
+583,38831,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JDP Oram,44,3,7.6,35,2,10,2,156
+584,38833,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JJ Bumrah,45,3,8.2,30,2,10,3,156
+585,38834,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JJ Bumrah,45,3,8.3,30,2,10,3,156
+586,38835,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JJ Bumrah,49,3,8.4,33,2,14,3,156
+587,38836,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JJ Bumrah,55,3,8.5,35,2,20,3,156
+588,38837,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JJ Bumrah,56,3,8.6,32,2,21,3,156
+589,38838,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,57,3,9.1,33,2,22,3,156
+590,38842,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,59,3,9.5,30,1,23,4,156
+591,38844,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,59,3,10.1,29,1,23,4,156
+592,38845,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,63,3,10.2,33,1,27,4,156
+593,38846,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,69,3,10.3,38,1,33,4,156
+594,38847,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,73,3,10.4,42,1,37,4,156
+595,38848,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,KA Pollard,74,3,10.5,43,1,38,4,156
+596,38850,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,74,3,11.1,43,0,38,4,156
+597,38851,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,74,3,11.2,43,0,38,4,156
+598,38852,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,75,3,11.3,43,0,39,4,156
+599,38856,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JJ Bumrah,79,4,12.1,43,1,43,0,156
+600,38857,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JJ Bumrah,79,4,12.2,42,1,43,0,156
+601,38858,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JJ Bumrah,80,4,12.3,42,1,44,0,156
+602,38861,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JJ Bumrah,82,5,12.6,38,2,45,1,156
+603,38862,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,82,5,13.1,37,2,45,1,156
+604,38863,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,83,5,13.1,38,2,45,1,156
+605,38864,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,83,5,13.2,38,2,45,1,156
+606,38865,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,87,5,13.3,38,2,49,1,156
+607,38866,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,88,5,13.4,33,2,50,1,156
+608,38868,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,93,5,13.6,36,2,54,2,156
+609,38872,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MG Johnson,95,5,14.3,36,2,54,3,156
+610,38873,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MG Johnson,96,5,14.4,37,2,55,3,156
+611,38876,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,100,5,15.1,31,2,55,7,156
+612,38877,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,106,5,15.2,33,2,61,7,156
+613,38878,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,106,5,15.3,32,2,61,7,156
+614,38879,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,106,5,15.4,32,2,61,7,156
+615,38880,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,106,5,15.5,32,2,61,7,156
+616,38881,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,106,5,15.6,32,2,61,7,156
+617,38889,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,120,5,17.2,40,0,65,13,156
+618,38890,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,121,5,17.3,40,0,66,13,156
+619,38892,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,126,5,17.5,44,0,70,14,156
+620,38893,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,132,5,17.6,49,0,76,14,156
+621,38897,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JDP Oram,138,5,18.4,49,0,77,18,156
+622,38899,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JDP Oram,140,5,18.6,46,0,77,19,156
+623,38900,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,140,5,19.1,46,0,77,19,156
+624,38901,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,144,5,19.2,49,0,81,19,156
+625,38902,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,145,5,19.3,50,0,82,19,156
+626,38904,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,150,5,19.5,50,0,86,19,156
+627,38905,315,04/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MM Patel,156,5,19.6,56,0,92,19,156
+628,39397,320,07/04/2013,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,DW Steyn,1,0,0.1,1,0,1,0,130
+629,39404,320,07/04/2013,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,GH Vihari,8,1,1.1,8,1,2,1,130
+630,40381,328,13/04/2013,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DP Nannes,0,0,0.1,0,0,0,0,165
+631,40382,328,13/04/2013,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DP Nannes,0,0,0.2,0,0,0,0,165
+632,40383,328,13/04/2013,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DP Nannes,0,0,0.3,0,0,0,0,165
+633,40384,328,13/04/2013,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DP Nannes,0,0,0.4,0,0,0,0,165
+634,40385,328,13/04/2013,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DP Nannes,0,0,0.5,0,0,0,0,165
+635,40386,328,13/04/2013,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DP Nannes,1,0,0.5,1,0,0,0,165
+636,40387,328,13/04/2013,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DP Nannes,5,0,0.6,5,0,4,0,165
+637,40389,328,13/04/2013,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,CH Morris,6,0,1.2,6,0,4,1,165
+638,40390,328,13/04/2013,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,CH Morris,6,0,1.3,6,0,4,1,165
+639,40391,328,13/04/2013,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,CH Morris,6,0,1.4,6,0,4,1,165
+640,40392,328,13/04/2013,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,CH Morris,6,1,1.5,6,1,4,1,165
+641,42229,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,0,0,0.1,0,0,0,0,263
+642,42230,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,0,0,0.2,0,0,0,0,263
+643,42231,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,1,0,0.3,1,0,1,0,263
+644,42235,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,IC Pandey,7,0,1.1,7,0,5,2,263
+645,42236,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,IC Pandey,11,0,1.2,11,0,9,2,263
+646,42237,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,IC Pandey,11,0,1.3,11,0,9,2,263
+647,42238,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,IC Pandey,16,0,1.3,16,0,13,2,263
+648,42239,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,IC Pandey,20,0,1.4,20,0,17,2,263
+649,42240,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,IC Pandey,20,0,1.5,20,0,17,2,263
+650,42241,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,IC Pandey,24,0,1.6,24,0,21,2,263
+651,42248,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AB Dinda,29,0,3.1,29,0,22,6,263
+652,42254,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,39,0,4.1,39,0,28,10,263
+653,42255,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,45,0,4.2,45,0,34,10,263
+654,42256,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,49,0,4.3,49,0,38,10,263
+655,42257,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,49,0,4.4,49,0,38,10,263
+656,42258,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,55,0,4.5,55,0,44,10,263
+657,42259,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,61,0,4.6,61,0,50,10,263
+658,42267,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AG Murtaza,66,0,6.1,55,0,54,10,263
+659,42268,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AG Murtaza,72,0,6.2,56,0,60,10,263
+660,42269,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AG Murtaza,73,0,6.3,53,0,61,10,263
+661,42271,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AG Murtaza,80,0,6.5,56,0,67,10,263
+662,42272,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AG Murtaza,80,0,6.6,56,0,67,10,263
+663,42274,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AJ Finch,87,0,7.2,63,0,73,11,263
+664,42275,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AJ Finch,93,0,7.3,69,0,79,11,263
+665,42276,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AJ Finch,97,0,7.4,69,0,83,11,263
+666,42277,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AJ Finch,103,0,7.5,75,0,89,11,263
+667,42278,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AJ Finch,109,0,7.6,80,0,95,11,263
+668,42281,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AB Dinda,114,0,8.3,81,0,95,16,263
+669,42282,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AB Dinda,115,0,8.4,82,0,96,16,263
+670,42284,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AB Dinda,123,0,8.5,84,0,102,17,263
+671,42285,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AB Dinda,124,0,8.6,79,0,103,17,263
+672,42286,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,124,0,9.1,75,0,103,17,263
+673,42287,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,125,0,9.2,76,0,104,17,263
+674,42289,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,127,0,9.4,66,0,105,18,263
+675,42291,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,128,0,9.6,67,0,105,19,263
+676,42294,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,IC Pandey,134,0,10.3,72,0,106,24,263
+677,42296,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,IC Pandey,136,0,10.5,74,0,107,25,263
+678,42298,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,140,0,11.1,68,0,107,29,263
+679,42299,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,140,0,11.2,67,0,107,29,263
+680,42300,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,146,0,11.3,72,0,113,29,263
+681,42301,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,147,0,11.4,67,0,114,29,263
+682,42304,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,150,0,11.5,63,0,114,30,263
+683,42305,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,151,0,11.6,58,0,114,30,263
+684,42306,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,152,0,12.1,55,0,115,30,263
+685,42308,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,153,0,12.3,44,0,115,31,263
+686,42309,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,154,0,12.4,41,0,116,31,263
+687,42311,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,161,0,12.6,47,0,122,32,263
+688,42313,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,166,0,13.2,49,0,126,33,263
+689,42314,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,167,0,13.3,44,0,127,33,263
+690,42319,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AG Murtaza,173,1,14.2,46,1,131,2,263
+691,42320,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AG Murtaza,179,1,14.3,51,1,137,2,263
+692,42321,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AG Murtaza,180,1,14.3,52,1,137,2,263
+693,42322,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AG Murtaza,186,1,14.4,54,1,143,2,263
+694,42323,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AG Murtaza,190,1,14.5,57,1,147,2,263
+695,42324,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AG Murtaza,196,1,14.6,62,1,153,2,263
+696,42326,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,198,1,15.2,62,1,154,3,263
+697,42329,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,LJ Wright,200,1,15.5,60,1,155,4,263
+698,42333,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AB Dinda,207,2,16.3,58,2,155,0,263
+699,42334,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AB Dinda,208,2,16.4,58,2,156,0,263
+700,42338,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,223,2,17.1,70,2,160,10,263
+701,42339,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,224,2,17.2,70,2,161,10,263
+702,42342,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,233,2,17.5,71,2,165,15,263
+703,42343,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,234,2,17.6,68,2,166,15,263
+704,42344,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,235,2,18.1,68,2,167,15,263
+705,42349,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,252,3,18.5,79,2,167,0,263
+706,42350,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,MR Marsh,253,3,18.6,74,2,167,0,263
+707,42351,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AB Dinda,259,3,19.1,79,2,173,0,263
+708,42352,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AB Dinda,260,3,19.2,74,2,174,0,263
+709,42355,343,23/04/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AB Dinda,263,4,19.5,66,3,175,0,263
+710,43348,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,A Chandila,1,0,0.2,1,0,1,0,171
+711,43349,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,A Chandila,5,0,0.3,5,0,4,1,171
+712,43350,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,A Chandila,9,0,0.4,9,0,8,1,171
+713,43351,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,A Chandila,9,0,0.5,9,0,8,1,171
+714,43352,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,A Chandila,13,0,0.6,13,0,12,1,171
+715,43354,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,JP Faulkner,15,0,1.1,15,0,12,2,171
+716,43355,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,JP Faulkner,15,0,1.2,15,0,12,2,171
+717,43356,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,JP Faulkner,19,0,1.3,19,0,16,2,171
+718,43357,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,JP Faulkner,22,0,1.4,22,0,19,2,171
+719,43360,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,S Sreesanth,22,0,2.1,22,0,19,2,171
+720,43361,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,S Sreesanth,26,0,2.2,26,0,23,2,171
+721,43362,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,S Sreesanth,30,0,2.3,30,0,27,2,171
+722,43363,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,S Sreesanth,30,0,2.4,30,0,27,2,171
+723,43364,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,S Sreesanth,32,0,2.4,32,0,28,2,171
+724,43366,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,S Sreesanth,39,0,2.6,39,0,34,3,171
+725,43371,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,44,0,3.5,44,0,34,8,171
+726,43372,352,29/04/2013,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,44,1,3.6,44,1,34,8,171
+727,44094,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,4,0,0.4,4,0,3,0,187
+728,44095,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,8,0,0.5,8,0,4,3,187
+729,44096,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,8,0,0.6,8,0,4,3,187
+730,44102,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,BAW Mendis,9,0,1.6,9,0,4,4,187
+731,44105,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,TL Suman,13,0,2.3,13,0,6,5,187
+732,44107,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,TL Suman,15,0,2.5,15,0,7,6,187
+733,44109,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,15,0,3.1,15,0,7,6,187
+734,44110,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,15,0,3.2,15,0,7,6,187
+735,44111,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,15,0,3.3,15,0,7,6,187
+736,44112,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,19,0,3.4,19,0,10,7,187
+737,44113,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,19,0,3.5,19,0,10,7,187
+738,44114,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,B Kumar,20,0,3.6,20,0,11,7,187
+739,44115,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,BAW Mendis,20,0,4.1,20,0,11,7,187
+740,44116,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,BAW Mendis,21,0,4.2,21,0,12,7,187
+741,44118,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,BAW Mendis,22,0,4.4,22,0,12,8,187
+742,44119,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,BAW Mendis,23,0,4.5,23,0,13,8,187
+743,44121,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AD Mathews,24,0,5.1,23,0,14,8,187
+744,44126,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,AD Mathews,30,0,5.6,22,0,15,13,187
+745,44127,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,TL Suman,30,0,6.1,22,0,15,13,187
+746,44128,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,TL Suman,36,0,6.2,28,0,21,13,187
+747,44129,358,02/05/2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,CH Gayle,TL Suman,36,1,6.3,28,1,21,13,187
+748,44459,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,6,0,0.4,6,0,5,1,174
+749,44461,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,7,0,0.6,7,0,6,1,174
+750,44467,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,12,0,1.6,12,0,11,1,174
+751,44471,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,14,0,2.4,14,0,12,2,174
+752,44477,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,21,0,3.4,21,0,18,3,174
+753,44486,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,26,1,5.1,26,1,4,3,174
+754,44487,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,26,1,5.2,22,1,4,3,174
+755,44488,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,26,1,5.3,21,1,4,3,174
+756,44489,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,26,1,5.4,20,1,4,3,174
+757,44490,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,27,1,5.5,20,1,4,4,174
+758,44492,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,31,1,6.1,20,1,8,4,174
+759,44493,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,31,1,6.2,20,1,8,4,174
+760,44494,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,32,1,6.3,21,1,8,5,174
+761,44496,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,37,1,6.5,25,1,9,9,174
+762,44497,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,37,1,6.6,25,1,9,9,174
+763,44500,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,38,1,7.3,25,1,10,9,174
+764,44501,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,38,1,7.4,24,1,10,9,174
+765,44502,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,39,1,7.5,25,1,10,10,174
+766,44505,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,42,1,8.2,23,1,12,11,174
+767,44507,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,47,1,8.4,26,1,15,13,174
+768,44508,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,48,1,8.5,27,1,16,13,174
+769,44511,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,51,1,9.2,29,0,17,15,174
+770,44514,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,52,1,9.5,26,0,17,16,174
+771,44515,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,52,1,9.6,26,0,17,16,174
+772,44520,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,58,1,10.5,31,0,21,18,174
+773,44522,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,59,1,11.1,28,0,21,19,174
+774,44525,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,68,1,11.4,35,0,28,21,174
+775,44526,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,68,1,11.5,31,0,28,21,174
+776,44527,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,69,1,11.6,32,0,28,22,174
+777,44528,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,69,1,12.1,32,0,28,22,174
+778,44529,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,75,1,12.2,37,0,28,28,174
+779,44530,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,75,1,12.3,37,0,28,28,174
+780,44531,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,76,1,12.3,38,0,28,28,174
+781,44532,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,77,1,12.3,38,0,28,28,174
+782,44533,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,78,1,12.4,38,0,29,28,174
+783,44535,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,79,1,12.6,37,0,29,29,174
+784,44538,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,88,1,13.3,40,0,34,33,174
+785,44539,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,89,1,13.4,40,0,34,34,174
+786,44542,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,91,1,14.1,40,0,36,34,174
+787,44543,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,97,1,14.2,45,0,42,34,174
+788,44544,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,103,1,14.3,51,0,48,34,174
+789,44545,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,109,1,14.4,57,0,54,34,174
+790,44546,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,110,1,14.4,54,0,54,34,174
+791,44547,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,111,1,14.5,55,0,55,34,174
+792,44549,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,112,1,15.1,55,0,56,34,174
+793,44554,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,126,1,15.6,60,0,57,47,174
+794,44555,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,127,1,16.1,59,0,58,47,174
+795,44559,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,128,1,16.4,53,0,58,47,174
+796,44560,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Azhar Mahmood,129,1,16.5,54,0,59,47,174
+797,44563,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,134,1,17.1,56,0,61,49,174
+798,44564,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,138,1,17.2,59,0,65,49,174
+799,44565,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,144,1,17.3,65,0,71,49,174
+800,44566,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,145,1,17.4,62,0,71,49,174
+801,44570,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,151,1,18.2,62,0,71,55,174
+802,44571,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,158,1,18.2,69,0,77,55,174
+803,44572,361,14/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,158,2,18.3,67,1,77,55,174
+804,45585,370,10/05/2013,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,M Morkel,1,0,0.2,1,0,1,0,183
+805,45586,370,10/05/2013,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,M Morkel,1,0,0.3,1,0,1,0,183
+806,45587,370,10/05/2013,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,M Morkel,1,0,0.4,1,0,1,0,183
+807,45588,370,10/05/2013,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,M Morkel,1,0,0.5,1,0,1,0,183
+808,45589,370,10/05/2013,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,M Morkel,1,0,0.6,1,0,1,0,183
+809,45594,370,10/05/2013,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,6,0,1.5,6,0,4,2,183
+810,45595,370,10/05/2013,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,IK Pathan,6,1,1.6,6,1,4,2,183
+811,45954,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,2,0,0.5,2,0,1,1,115
+812,45959,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,L Balaji,4,0,1.4,4,0,3,1,115
+813,45960,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,L Balaji,5,0,1.5,5,0,3,2,115
+814,45962,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,5,0,2.1,5,0,3,2,115
+815,45963,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,9,0,2.2,9,0,6,3,115
+816,45964,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,9,0,2.3,9,0,6,3,115
+817,45965,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,9,0,2.4,9,0,6,3,115
+818,45966,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,10,0,2.5,10,0,7,3,115
+819,45971,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,L Balaji,12,0,3.4,12,0,7,5,115
+820,45972,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,L Balaji,12,0,3.5,12,0,7,5,115
+821,45973,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,L Balaji,13,0,3.5,13,0,7,5,115
+822,45974,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,L Balaji,14,0,3.6,14,0,8,5,115
+823,45975,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,14,0,4.1,14,0,8,5,115
+824,45976,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,15,0,4.2,15,0,9,5,115
+825,45978,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,16,1,4.4,16,1,10,0,115
+826,45981,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SP Narine,16,1,5.1,16,1,10,0,115
+827,45982,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SP Narine,17,1,5.2,17,1,11,0,115
+828,45988,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,JH Kallis,23,1,6.2,19,1,11,6,115
+829,45989,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,JH Kallis,24,1,6.3,20,1,12,6,115
+830,45991,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,JH Kallis,26,1,6.5,21,1,13,7,115
+831,45993,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,RN ten Doeschate,29,1,7.1,20,1,14,9,115
+832,45996,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,RN ten Doeschate,34,1,7.4,24,1,14,14,115
+833,45997,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,RN ten Doeschate,40,1,7.5,29,1,20,14,115
+834,45998,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,RN ten Doeschate,42,1,7.6,31,1,22,14,115
+835,46000,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,JH Kallis,44,1,8.2,32,1,23,15,115
+836,46004,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,JH Kallis,47,2,8.6,33,2,23,1,115
+837,46006,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,YK Pathan,49,2,9.2,34,2,23,2,115
+838,46008,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,YK Pathan,51,2,9.4,35,1,24,3,115
+839,46010,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,YK Pathan,54,2,9.6,38,1,26,4,115
+840,46014,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,JH Kallis,56,2,10.4,35,1,27,5,115
+841,46018,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,R Bhatia,59,2,11.2,36,1,28,7,115
+842,46020,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,R Bhatia,61,2,11.4,36,1,29,8,115
+843,46022,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,R Bhatia,63,2,11.6,35,1,30,9,115
+844,46023,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,64,2,12.1,35,1,31,9,115
+845,46025,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,66,2,12.3,32,1,32,10,115
+846,46027,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,68,2,12.5,28,1,33,11,115
+847,46029,373,12/05/2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SP Narine,70,3,13.1,27,2,33,13,115
+848,46815,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,1,0,0.4,1,0,1,0,190
+849,46816,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,3,0,0.5,3,0,2,1,190
+850,46817,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,3,0,0.6,3,0,2,1,190
+851,46820,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,4,0,1.3,4,0,2,2,190
+852,46821,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,8,0,1.4,8,0,6,2,190
+853,46822,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,10,0,1.5,10,0,8,2,190
+854,46823,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,11,0,1.6,11,0,9,2,190
+855,46824,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,15,0,2.1,15,0,13,2,190
+856,46825,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,15,0,2.2,15,0,13,2,190
+857,46826,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,16,0,2.3,16,0,13,2,190
+858,46830,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,18,0,3.1,18,0,13,4,190
+859,46831,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,22,0,3.2,22,0,17,4,190
+860,46832,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,23,0,3.3,23,0,18,4,190
+861,46836,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,24,0,4.1,24,0,19,4,190
+862,46840,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,35,0,4.5,35,0,25,9,190
+863,46841,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,41,0,4.6,41,0,31,9,190
+864,46847,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,58,0,5.6,55,0,35,22,190
+865,46850,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,60,0,6.3,56,0,35,23,190
+866,46852,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,65,0,6.5,55,0,39,24,190
+867,46853,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,66,0,6.5,55,0,39,24,190
+868,46854,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,67,0,6.6,52,0,40,24,190
+869,46855,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,68,0,7.1,53,0,41,24,190
+870,46865,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,76,0,8.5,53,0,43,29,190
+871,46866,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,77,0,8.6,53,0,43,29,190
+872,46867,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,77,0,9.1,53,0,43,29,190
+873,46868,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,81,0,9.2,53,0,47,29,190
+874,46869,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,82,0,9.3,53,0,48,29,190
+875,46872,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,86,0,9.5,45,0,50,30,190
+876,46873,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,88,0,9.6,43,0,52,30,190
+877,46877,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,95,0,10.4,37,0,54,35,190
+878,46878,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,95,0,10.5,37,0,54,35,190
+879,46879,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,96,0,10.6,37,0,55,35,190
+880,46880,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,102,0,11.1,42,0,61,35,190
+881,46881,380,06/05/2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,102,1,11.2,41,1,61,35,190
+882,47312,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,5,0,0.5,5,0,5,0,106
+883,47313,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,6,0,0.6,6,0,5,1,106
+884,47314,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,CH Morris,7,0,1.1,7,0,5,2,106
+885,47316,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,CH Morris,9,0,1.2,9,0,6,2,106
+886,47317,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,CH Morris,15,0,1.3,15,0,8,6,106
+887,47318,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,CH Morris,16,0,1.4,16,0,8,6,106
+888,47324,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,23,0,2.4,23,0,11,8,106
+889,47327,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,CH Morris,34,0,3.1,34,0,21,9,106
+890,47333,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JO Holder,47,0,4.1,47,0,33,10,106
+891,47335,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JO Holder,48,0,4.3,48,0,34,10,106
+892,47336,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JO Holder,54,0,4.4,54,0,34,16,106
+893,47337,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JO Holder,60,0,4.5,60,0,34,22,106
+894,47338,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,JO Holder,66,0,4.6,66,0,34,28,106
+895,47340,384,18/05/2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DJ Bravo,67,1,5.2,63,1,35,28,106
+896,50052,407,28/04/2014,Dubai International Cricket Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,4,0,0.1,4,0,4,0,124
+897,50053,407,28/04/2014,Dubai International Cricket Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,4,0,0.2,4,0,4,0,124
+898,50054,407,28/04/2014,Dubai International Cricket Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,8,0,0.3,8,0,8,0,124
+899,50055,407,28/04/2014,Dubai International Cricket Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,8,0,0.4,8,0,8,0,124
+900,50056,407,28/04/2014,Dubai International Cricket Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,14,0,0.5,14,0,14,0,124
+901,50057,407,28/04/2014,Dubai International Cricket Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,20,0,0.6,20,0,20,0,124
+902,50059,407,28/04/2014,Dubai International Cricket Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,21,1,1.2,21,1,20,1,124
+903,52025,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,4,0,1.1,4,0,4,0,190
+904,52026,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,4,0,1.2,4,0,4,0,190
+905,52027,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,4,0,1.3,4,0,4,0,190
+906,52028,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,5,0,1.4,5,0,4,1,190
+907,52031,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,KW Richardson,5,0,2.1,5,0,4,1,190
+908,52032,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,KW Richardson,6,0,2.2,6,0,4,2,190
+909,52037,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,6,1,3.1,6,1,2,0,190
+910,52038,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,6,1,3.2,6,1,2,0,190
+911,52039,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,10,1,3.3,10,1,6,0,190
+912,52040,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,10,1,3.4,10,1,6,0,190
+913,52041,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,11,1,3.5,11,1,7,0,190
+914,52043,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,JP Faulkner,16,1,4.1,16,1,8,4,190
+915,52045,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,JP Faulkner,18,1,4.3,18,1,9,5,190
+916,52049,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,PV Tambe,22,1,5.1,22,1,9,9,190
+917,52050,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,PV Tambe,26,1,5.2,26,1,13,9,190
+918,52051,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,PV Tambe,26,1,5.3,26,1,13,9,190
+919,52052,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,PV Tambe,30,1,5.4,26,1,17,9,190
+920,52053,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,PV Tambe,31,1,5.5,27,1,18,9,190
+921,52055,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,R Tewatia,31,1,6.1,27,1,18,9,190
+922,52056,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,R Tewatia,32,1,6.2,28,1,19,9,190
+923,52058,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,R Tewatia,33,1,6.4,28,1,19,10,190
+924,52059,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,R Tewatia,33,1,6.5,28,1,19,10,190
+925,52060,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,R Tewatia,33,1,6.6,28,1,19,10,190
+926,52063,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,PV Tambe,38,1,7.3,32,0,19,15,190
+927,52064,423,11/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,PV Tambe,38,2,7.4,32,1,19,15,190
+928,52391,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,JP Duminy,0,0,0.1,0,0,0,0,186
+929,52392,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,JP Duminy,0,0,0.2,0,0,0,0,186
+930,52393,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,JP Duminy,0,0,0.3,0,0,0,0,186
+931,52394,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,JP Duminy,1,0,0.4,1,0,1,0,186
+932,52397,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,1,0,1.1,1,0,1,0,186
+933,52398,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,1,0,1.2,1,0,1,0,186
+934,52399,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,1,0,1.3,1,0,1,0,186
+935,52400,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,2,0,1.4,2,0,2,0,186
+936,52402,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,9,0,1.6,9,0,8,1,186
+937,52404,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,JP Duminy,10,0,2.2,10,0,8,2,186
+938,52405,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,JP Duminy,16,0,2.3,16,0,14,2,186
+939,52406,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,JP Duminy,20,0,2.4,20,0,18,2,186
+940,52407,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,JP Duminy,20,0,2.5,20,0,18,2,186
+941,52408,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,JP Duminy,22,0,2.6,22,0,20,2,186
+942,52411,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,23,0,3.3,23,0,20,3,186
+943,52412,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,24,0,3.4,24,0,21,3,186
+944,52415,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,S Kaul,28,0,4.1,28,0,21,7,186
+945,52416,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,S Kaul,28,0,4.2,28,0,21,7,186
+946,52417,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,S Kaul,28,0,4.3,28,0,21,7,186
+947,52418,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,S Kaul,29,0,4.4,29,0,22,7,186
+948,52421,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,R Shukla,33,0,5.1,33,0,22,11,186
+949,52422,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,R Shukla,33,0,5.2,33,0,22,11,186
+950,52423,426,13/05/2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,R Shukla,33,1,5.3,33,1,22,11,186
+951,53391,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,1,0,0.1,1,0,0,0,160
+952,53397,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,DW Steyn,5,1,1.1,5,1,0,0,160
+953,53398,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,DW Steyn,5,1,1.2,5,1,0,0,160
+954,53399,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,DW Steyn,5,1,1.3,5,1,0,0,160
+955,53400,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,DW Steyn,7,1,1.4,7,1,2,0,160
+956,53401,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,DW Steyn,7,1,1.5,7,1,2,0,160
+957,53402,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,DW Steyn,7,1,1.6,7,1,2,0,160
+958,53404,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,8,1,2.2,8,1,2,1,160
+959,53405,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,12,1,2.3,12,1,6,1,160
+960,53406,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,12,1,2.4,12,1,6,1,160
+961,53407,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,13,1,2.5,13,1,7,1,160
+962,53411,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,DW Steyn,17,1,3.3,17,1,9,3,160
+963,53412,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,DW Steyn,19,1,3.4,19,1,11,3,160
+964,53413,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,DW Steyn,20,1,3.5,20,1,12,3,160
+965,53415,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,Parvez Rasool,21,1,4.1,21,1,13,3,160
+966,53417,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,Parvez Rasool,22,1,4.3,22,1,13,4,160
+967,53418,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,Parvez Rasool,22,1,4.4,22,1,13,4,160
+968,53419,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,Parvez Rasool,22,1,4.5,22,1,13,4,160
+969,53420,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,Parvez Rasool,23,1,4.6,23,1,14,4,160
+970,53421,434,20/05/2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,KV Sharma,23,2,5.1,22,2,14,4,160
+971,56100,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,TA Boult,1,0,0.1,1,0,1,0,166
+972,56102,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,TA Boult,3,0,0.2,3,0,1,0,166
+973,56103,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,TA Boult,9,0,0.3,9,0,7,0,166
+974,56104,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,TA Boult,11,0,0.4,11,0,9,0,166
+975,56105,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,TA Boult,11,0,0.5,11,0,9,0,166
+976,56106,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,TA Boult,11,0,0.6,11,0,9,0,166
+977,56111,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,20,0,1.5,20,0,13,5,166
+978,56112,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,20,0,1.6,20,0,13,5,166
+979,56122,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,24,0,3.2,24,0,13,7,166
+980,56123,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,24,0,3.3,24,0,13,7,166
+981,56124,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,28,0,3.4,28,0,17,7,166
+982,56125,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,28,0,3.5,28,0,17,7,166
+983,56126,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,28,0,3.6,28,0,17,7,166
+984,56134,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,P Kumar,39,0,5.1,28,0,17,17,166
+985,56135,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,P Kumar,43,0,5.2,32,0,21,17,166
+986,56136,456,13/04/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,P Kumar,43,1,5.3,32,1,21,17,166
+987,59762,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,0,0,0.1,0,0,0,0,226
+988,59763,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,0,0,0.2,0,0,0,0,226
+989,59764,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,0,0,0.3,0,0,0,0,226
+990,59765,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,0,0,0.4,0,0,0,0,226
+991,59766,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,1,0,0.5,1,0,1,0,226
+992,59768,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,5,0,1.1,5,0,5,0,226
+993,59769,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,5,0,1.2,5,0,5,0,226
+994,59770,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,11,0,1.3,11,0,11,0,226
+995,59771,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,17,0,1.4,17,0,17,0,226
+996,59772,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,21,0,1.5,21,0,21,0,226
+997,59773,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,21,0,1.6,21,0,21,0,226
+998,59775,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,28,0,2.2,28,0,27,1,226
+999,59776,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,32,0,2.3,32,0,31,1,226
+1000,59777,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,34,0,2.3,34,0,32,1,226
+1001,59779,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,41,0,2.5,41,0,38,2,226
+1002,59780,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,45,0,2.6,45,0,42,2,226
+1003,59787,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Anureet Singh,52,0,4.1,52,0,42,8,226
+1004,59791,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Anureet Singh,57,0,4.5,57,0,42,13,226
+1005,59792,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Anureet Singh,58,0,4.6,58,0,43,13,226
+1006,59793,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,59,0,5.0,59,0,43,13,226
+1007,59794,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,65,0,5.1,65,0,49,13,226
+1008,59795,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,65,0,5.2,65,0,49,13,226
+1009,59796,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,66,0,5.3,65,0,50,13,226
+1010,59802,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Anureet Singh,70,0,6.2,49,0,51,15,226
+1011,59805,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Anureet Singh,71,0,6.5,43,0,51,16,226
+1012,59806,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Anureet Singh,71,0,6.6,39,0,51,16,226
+1013,59809,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,76,0,7.3,35,0,51,21,226
+1014,59810,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,77,0,7.4,32,0,52,21,226
+1015,59812,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,79,0,7.6,34,0,53,22,226
+1016,59813,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,80,0,8.1,35,0,54,22,226
+1017,59817,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,88,0,8.5,36,0,54,29,226
+1018,59820,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,96,0,9.2,39,0,60,31,226
+1019,59821,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,102,0,9.3,45,0,66,31,226
+1020,59822,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,103,0,9.3,45,0,66,31,226
+1021,59823,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,103,0,9.4,44,0,66,31,226
+1022,59824,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,103,0,9.5,38,0,66,31,226
+1023,59825,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,GJ Maxwell,104,0,9.6,39,0,67,31,226
+1024,59826,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,105,0,10.0,39,0,67,31,226
+1025,59827,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,111,0,10.1,45,0,73,31,226
+1026,59828,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,111,0,10.2,45,0,73,31,226
+1027,59829,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,112,0,10.3,45,0,74,31,226
+1028,59832,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,119,0,10.6,49,0,80,32,226
+1029,59836,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,121,1,11.4,50,1,81,1,226
+1030,59838,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Sandeep Sharma,123,1,11.6,47,1,82,2,226
+1031,59839,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Karanveer Singh,124,1,12.0,48,1,82,2,226
+1032,59840,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Karanveer Singh,125,1,12.1,48,1,83,2,226
+1033,59842,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Karanveer Singh,127,1,12.2,48,1,83,3,226
+1034,59843,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Karanveer Singh,128,1,12.3,48,1,84,3,226
+1035,59845,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Karanveer Singh,135,1,12.5,49,1,90,4,226
+1036,59846,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Karanveer Singh,141,1,12.6,54,1,96,4,226
+1037,59848,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,146,1,13.2,57,1,100,5,226
+1038,59849,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,146,1,13.3,56,1,100,5,226
+1039,59850,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Johnson,147,1,13.4,51,1,101,5,226
+1040,59858,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Karanveer Singh,171,1,14.6,60,1,105,25,226
+1041,59861,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Anureet Singh,177,1,15.3,64,1,106,30,226
+1042,59864,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,Anureet Singh,179,1,15.6,60,0,107,31,226
+1043,59865,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,180,1,16.0,60,0,107,31,226
+1044,59866,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,184,1,16.1,63,0,111,31,226
+1045,59867,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,190,1,16.2,68,0,117,31,226
+1046,59868,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,190,1,16.3,67,0,117,31,226
+1047,59869,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,190,1,16.4,66,0,117,31,226
+1048,59870,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,190,1,16.5,65,0,117,31,226
+1049,59871,486,06/05/2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,AR Patel,190,2,16.6,64,1,117,31,226
+1050,60384,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,0,0,0.1,0,0,0,0,235
+1051,60385,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,0,0,0.2,0,0,0,0,235
+1052,60386,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,1,0,0.2,1,0,0,0,235
+1053,60387,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,7,0,0.3,7,0,6,0,235
+1054,60388,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,7,0,0.4,7,0,6,0,235
+1055,60389,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,8,0,0.5,8,0,7,0,235
+1056,60391,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,8,0,1.1,8,0,7,0,235
+1057,60392,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,8,0,1.2,8,0,7,0,235
+1058,60393,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,9,0,1.3,9,0,8,0,235
+1059,60395,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,10,0,1.5,10,0,8,1,235
+1060,60396,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,14,0,1.6,14,0,12,1,235
+1061,60400,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,20,0,2.4,20,0,13,6,235
+1062,60403,491,10/05/2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,SL Malinga,20,1,3.1,20,1,13,6,235
+1063,61569,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,CH Morris,0,0,0.1,0,0,0,0,180
+1064,61570,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,CH Morris,4,0,0.2,4,0,4,0,180
+1065,61571,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,CH Morris,4,0,0.3,4,0,4,0,180
+1066,61572,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,CH Morris,4,0,0.4,4,0,4,0,180
+1067,61573,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,CH Morris,4,0,0.5,4,0,4,0,180
+1068,61574,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,CH Morris,5,0,0.6,5,0,5,0,180
+1069,61575,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,JP Faulkner,5,0,1.1,5,0,5,0,180
+1070,61576,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,JP Faulkner,6,0,1.2,6,0,6,0,180
+1071,61578,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,JP Faulkner,7,0,1.4,7,0,6,1,180
+1072,61579,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,JP Faulkner,8,0,1.5,8,0,7,1,180
+1073,61581,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,DS Kulkarni,14,0,2.1,14,0,11,3,180
+1074,61582,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,DS Kulkarni,14,0,2.2,14,0,11,3,180
+1075,61583,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,DS Kulkarni,14,0,2.3,14,0,11,3,180
+1076,61584,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,DS Kulkarni,14,0,2.4,14,0,11,3,180
+1077,61585,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,DS Kulkarni,20,0,2.5,20,0,17,3,180
+1078,61586,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,DS Kulkarni,24,0,2.6,24,0,17,3,180
+1079,61589,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,25,0,3.3,25,0,17,4,180
+1080,61590,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,26,0,3.4,26,0,18,4,180
+1081,61592,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,28,0,3.5,28,0,18,5,180
+1082,61593,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,SR Watson,28,0,3.6,28,0,18,5,180
+1083,61595,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,CH Morris,33,0,4.2,33,0,22,6,180
+1084,61596,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,CH Morris,34,0,4.2,34,0,22,6,180
+1085,61597,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,CH Morris,34,0,4.3,34,0,22,6,180
+1086,61598,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,CH Morris,38,0,4.4,38,0,26,6,180
+1087,61599,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,CH Morris,38,0,4.5,38,0,26,6,180
+1088,61600,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,CH Morris,38,0,4.6,34,0,26,6,180
+1089,61602,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,DS Kulkarni,40,0,5.2,36,0,27,7,180
+1090,61606,501,20/05/2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle,DS Kulkarni,41,1,5.6,35,1,27,8,180
+1091,61694,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,A Nehra,0,0,0.1,0,0,0,0,139
+1092,61695,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,A Nehra,6,0,0.2,6,0,6,0,139
+1093,61696,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,A Nehra,6,0,0.3,6,0,6,0,139
+1094,61697,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,A Nehra,6,0,0.4,6,0,6,0,139
+1095,61698,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,A Nehra,6,0,0.5,6,0,6,0,139
+1096,61699,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,A Nehra,6,0,0.6,6,0,6,0,139
+1097,61701,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,7,0,1.2,7,0,6,1,139
+1098,61702,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,7,0,1.3,7,0,6,1,139
+1099,61703,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,7,0,1.4,7,0,6,1,139
+1100,61704,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,11,0,1.5,11,0,10,1,139
+1101,61705,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,11,0,1.6,11,0,10,1,139
+1102,61712,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,22,0,3.1,22,0,11,11,139
+1103,61714,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,23,0,3.3,23,0,12,11,139
+1104,61715,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,23,0,3.4,23,0,12,11,139
+1105,61716,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,23,0,3.5,23,0,12,11,139
+1106,61717,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,23,0,3.6,23,0,12,11,139
+1107,61720,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,A Nehra,24,1,4.3,24,1,11,1,139
+1108,61721,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,A Nehra,25,1,4.4,25,1,12,1,139
+1109,61724,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,25,2,5.1,25,2,12,0,139
+1110,61725,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,R Ashwin,26,2,5.2,20,2,13,0,139
+1111,61732,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,MM Sharma,30,2,6.3,23,2,13,4,139
+1112,61733,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,MM Sharma,32,2,6.4,25,2,15,4,139
+1113,61734,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,MM Sharma,32,2,6.5,21,2,15,4,139
+1114,61735,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,MM Sharma,36,2,6.6,25,2,19,4,139
+1115,61742,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,MM Sharma,38,3,8.1,16,3,19,2,139
+1116,61743,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,MM Sharma,38,3,8.2,15,3,19,2,139
+1117,61744,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,MM Sharma,39,3,8.3,16,3,20,2,139
+1118,61747,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,MM Sharma,41,3,8.6,18,3,21,3,139
+1119,61748,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,41,3,9.1,18,2,21,3,139
+1120,61749,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,42,3,9.2,18,2,22,3,139
+1121,61751,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,44,3,9.3,19,2,22,4,139
+1122,61752,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,45,3,9.4,20,2,23,4,139
+1123,61756,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,MM Sharma,47,3,10.2,21,1,23,6,139
+1124,61757,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,MM Sharma,49,3,10.3,21,1,25,6,139
+1125,61758,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,MM Sharma,50,3,10.4,22,1,25,6,139
+1126,61760,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,MM Sharma,52,3,10.6,23,1,26,7,139
+1127,61761,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,53,3,11.1,23,1,27,7,139
+1128,61766,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,65,3,11.6,29,0,28,18,139
+1129,61767,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DJ Bravo,65,3,12.1,29,0,28,18,139
+1130,61768,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DJ Bravo,65,3,12.2,29,0,28,18,139
+1131,61769,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,DJ Bravo,66,3,12.3,28,0,29,18,139
+1132,61774,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,73,3,13.1,34,0,35,18,139
+1133,61775,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,79,3,13.2,40,0,41,18,139
+1134,61776,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,80,3,13.2,40,0,41,18,139
+1135,61777,502,22/05/2015,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle,SK Raina,80,4,13.3,39,1,41,18,139
+1136,62300,507,12/04/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,A Nehra,0,0,0.1,0,0,0,0,227
+1137,62301,507,12/04/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,A Nehra,1,0,0.2,1,0,1,0,227
+1138,62306,507,12/04/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,6,0,1.0,6,0,4,1,227
+1139,62307,507,12/04/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,6,0,1.1,6,0,4,1,227
+1140,62308,507,12/04/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle,B Kumar,6,1,1.2,6,1,4,1,227
+1141,63170,514,17/04/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,0,0,0.1,0,0,0,0,191
+1142,63171,514,17/04/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,0,0,0.2,0,0,0,0,191
+1143,63172,514,17/04/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,0,1,0.3,0,1,0,0,191
+1144,65401,532,02/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,AD Russell,1,0,0.3,1,0,1,0,185
+1145,65402,532,02/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,AD Russell,1,0,0.4,1,0,1,0,185
+1146,65403,532,02/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,AD Russell,1,0,0.5,1,0,1,0,185
+1147,65404,532,02/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,AD Russell,2,0,0.6,2,0,1,1,185
+1148,65405,532,02/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,M Morkel,2,0,1.1,2,0,1,1,185
+1149,65406,532,02/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,M Morkel,8,0,1.2,8,0,7,1,185
+1150,65407,532,02/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,M Morkel,8,1,1.3,8,1,7,1,185
+1151,66772,543,11/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,9,1,1.3,9,1,1,0,151
+1152,66773,543,11/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,10,1,1.4,10,1,1,1,151
+1153,66775,543,11/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,11,1,1.6,11,1,2,1,151
+1154,66783,543,11/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,TG Southee,13,1,3.2,13,1,4,1,151
+1155,66784,543,11/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,TG Southee,17,1,3.3,17,1,5,4,151
+1156,66785,543,11/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,TG Southee,17,2,3.4,17,2,5,4,151
+1157,67132,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,P Kumar,0,0,0.1,0,0,0,0,248
+1158,67133,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,P Kumar,0,0,0.2,0,0,0,0,248
+1159,67134,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,P Kumar,0,0,0.3,0,0,0,0,248
+1160,67135,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,P Kumar,0,0,0.4,0,0,0,0,248
+1161,67136,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,P Kumar,1,0,0.5,1,0,0,0,248
+1162,67138,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,1,0,1.1,1,0,0,0,248
+1163,67139,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,2,0,1.2,2,0,1,0,248
+1164,67143,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,3,0,1.6,3,0,1,1,248
+1165,67146,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,P Kumar,8,0,2.3,8,0,6,1,248
+1166,67147,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,P Kumar,9,0,2.4,9,0,6,2,248
+1167,67152,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,19,0,3.3,19,0,12,6,248
+1168,67153,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,19,0,3.4,19,0,12,6,248
+1169,67154,546,14/05/2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,19,1,3.5,19,1,12,6,248
+1170,69359,564,08/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,1,0,0.1,1,0,1,0,157
+1171,69368,564,08/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,CH Morris,19,0,1.4,19,0,13,5,157
+1172,69369,564,08/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,CH Morris,19,0,1.5,19,0,13,5,157
+1173,69370,564,08/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,CH Morris,19,0,1.6,19,0,13,5,157
+1174,69373,564,08/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,PJ Cummins,20,0,2.3,20,0,14,5,157
+1175,69374,564,08/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,PJ Cummins,21,0,2.3,21,0,14,5,157
+1176,69375,564,08/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,PJ Cummins,22,0,2.4,22,0,14,6,157
+1177,69378,564,08/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,CH Morris,26,0,3.1,26,0,18,6,157
+1178,69379,564,08/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,CH Morris,26,1,3.2,26,1,18,6,157
+1179,70235,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,TG Southee,1,0,0.1,1,0,1,0,142
+1180,70238,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,TG Southee,4,0,0.3,4,0,2,1,142
+1181,70241,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,TG Southee,6,0,0.5,6,0,2,2,142
+1182,70242,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,TG Southee,6,0,0.6,6,0,2,2,142
+1183,70245,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,7,0,1.3,7,0,3,2,142
+1184,70246,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,7,0,1.4,7,0,3,2,142
+1185,70247,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,7,0,1.5,7,0,3,2,142
+1186,70248,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,7,0,1.6,7,0,3,2,142
+1187,70254,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,TG Southee,24,0,2.6,24,0,20,2,142
+1188,70256,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,26,0,3.2,26,0,21,3,142
+1189,70261,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,32,0,4.1,32,0,23,7,142
+1190,70262,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,32,0,4.2,32,0,23,7,142
+1191,70263,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,32,0,4.3,32,0,23,7,142
+1192,70264,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,32,0,4.4,32,0,23,7,142
+1193,70265,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,33,0,4.5,32,0,23,8,142
+1194,70268,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,36,0,5.2,32,0,25,9,142
+1195,70270,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,41,0,5.4,36,0,26,13,142
+1196,70271,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,41,0,5.5,35,0,26,13,142
+1197,70272,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,MJ McClenaghan,41,0,5.6,35,0,26,13,142
+1198,70274,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,42,0,6.2,35,0,27,13,142
+1199,70275,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,44,0,6.3,37,0,27,13,142
+1200,70276,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,50,0,6.4,43,0,27,19,142
+1201,70277,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,50,0,6.5,43,0,27,19,142
+1202,70278,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,50,0,6.6,43,0,27,19,142
+1203,70282,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,JJ Bumrah,52,0,7.4,29,0,28,20,142
+1204,70287,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,59,0,8.3,31,0,34,21,142
+1205,70289,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,Harbhajan Singh,61,0,8.5,33,0,35,22,142
+1206,70292,571,14/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,CH Gayle,HH Pandya,63,1,9.2,31,1,37,22,142
+1207,71235,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,1,0,0.1,1,0,1,0,213
+1208,71238,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,3,0,0.4,3,0,2,1,213
+1209,71253,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,Basil Thampi,25,0,3.1,25,0,23,2,213
+1210,71254,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,Basil Thampi,25,0,3.2,25,0,23,2,213
+1211,71255,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,Basil Thampi,26,0,3.3,26,0,23,3,213
+1212,71257,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,Basil Thampi,33,0,3.5,33,0,24,9,213
+1213,71258,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,Basil Thampi,33,0,3.6,33,0,24,9,213
+1214,71260,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,AJ Tye,35,0,4.2,35,0,25,10,213
+1215,71266,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,RA Jadeja,41,0,5.2,40,0,27,14,213
+1216,71267,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,RA Jadeja,43,0,5.3,41,0,27,16,213
+1217,71268,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,RA Jadeja,44,0,5.4,41,0,27,17,213
+1218,71273,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,S Kaushik,47,0,6.3,39,0,29,18,213
+1219,71275,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,S Kaushik,54,0,6.5,42,0,30,24,213
+1220,71276,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,S Kaushik,54,0,6.6,41,0,30,24,213
+1221,71278,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,RA Jadeja,55,0,7.2,42,0,31,24,213
+1222,71279,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,RA Jadeja,59,0,7.3,42,0,31,28,213
+1223,71280,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,RA Jadeja,63,0,7.4,42,0,32,31,213
+1224,71281,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,RA Jadeja,69,0,7.5,44,0,38,31,213
+1225,71282,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,RA Jadeja,75,0,7.6,50,0,44,31,213
+1226,71285,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,AJ Tye,77,0,8.3,51,0,44,32,213
+1227,71287,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,AJ Tye,79,0,8.5,46,0,45,33,213
+1228,71289,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,S Kaushik,84,0,9.1,50,0,46,37,213
+1229,71291,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,S Kaushik,91,0,9.3,56,0,52,38,213
+1230,71292,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,S Kaushik,91,0,9.4,56,0,52,38,213
+1231,71293,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,S Kaushik,91,0,9.5,56,0,52,38,213
+1232,71294,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,S Kaushik,92,0,9.6,56,0,53,38,213
+1233,71295,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DR Smith,93,0,10.1,56,0,54,38,213
+1234,71297,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DR Smith,100,0,10.3,57,0,60,39,213
+1235,71298,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DR Smith,101,0,10.3,57,0,60,39,213
+1236,71299,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DR Smith,107,0,10.4,63,0,66,39,213
+1237,71300,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DR Smith,108,0,10.5,63,0,67,39,213
+1238,71303,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,110,0,11.2,63,0,67,41,213
+1239,71304,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,114,0,11.3,66,0,71,41,213
+1240,71305,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,114,0,11.4,60,0,71,41,213
+1241,71306,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,118,0,11.5,64,0,75,41,213
+1242,71307,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,119,0,11.5,64,0,75,41,213
+1243,71308,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,DS Kulkarni,119,0,11.6,64,0,75,41,213
+1244,71310,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,Basil Thampi,122,0,12.2,59,0,77,42,213
+1245,71311,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,Basil Thampi,122,0,12.3,53,0,77,42,213
+1246,71312,579,18/04/2017,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,Basil Thampi,122,1,12.4,47,1,77,42,213
+1247,72469,589,27/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,NB Singh,0,0,0.1,0,0,0,0,134
+1248,72470,589,27/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,NB Singh,1,0,0.2,1,0,1,0,134
+1249,72473,589,27/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,NB Singh,3,0,0.5,3,0,1,1,134
+1250,72475,589,27/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,Basil Thampi,3,0,1.1,3,0,1,1,134
+1251,72476,589,27/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,Basil Thampi,4,0,1.2,4,0,2,1,134
+1252,72481,589,27/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,NB Singh,11,0,2.1,11,0,7,3,134
+1253,72484,589,27/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,NB Singh,13,0,2.3,13,0,7,3,134
+1254,72485,589,27/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,NB Singh,13,0,2.4,13,0,7,3,134
+1255,72486,589,27/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,NB Singh,13,0,2.5,13,0,7,3,134
+1256,72487,589,27/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,NB Singh,17,0,2.6,17,0,7,7,134
+1257,72490,589,27/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,Basil Thampi,20,0,3.2,20,0,8,8,134
+1258,72495,589,27/04/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,CH Gayle,AJ Tye,22,2,4.1,22,2,8,0,134
+1259,74306,604,07/05/2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,UT Yadav,0,1,0.1,0,1,0,0,158
+1260,75521,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,0,0,0.1,0,0,0,0,161
+1261,75522,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,0,0,0.2,0,0,0,0,161
+1262,75523,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,4,0,0.3,4,0,4,0,161
+1263,75524,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,5,0,0.3,5,0,4,0,161
+1264,75525,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,9,0,0.4,9,0,8,0,161
+1265,75526,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,9,0,0.5,9,0,8,0,161
+1266,75527,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,10,0,0.6,10,0,9,0,161
+1267,75528,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,10,0,1.1,10,0,9,0,161
+1268,75529,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,16,0,1.2,16,0,15,0,161
+1269,75530,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,16,0,1.3,16,0,15,0,161
+1270,75531,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,16,0,1.4,16,0,15,0,161
+1271,75532,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,17,0,1.5,17,0,16,0,161
+1272,75534,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,17,0,2.1,17,0,16,0,161
+1273,75535,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,17,0,2.2,17,0,16,0,161
+1274,75536,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,18,0,2.3,18,0,17,0,161
+1275,75538,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,19,0,2.5,19,0,17,1,161
+1276,75539,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Z Khan,19,0,2.6,19,0,17,1,161
+1277,75543,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,26,0,3.4,26,0,23,2,161
+1278,75544,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,27,0,3.5,27,0,24,2,161
+1279,75546,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,PJ Cummins,28,0,4.1,28,0,25,2,161
+1280,75548,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,PJ Cummins,30,0,4.3,30,0,26,3,161
+1281,75552,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,34,1,5.1,34,1,30,0,161
+1282,75553,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,35,1,5.2,31,1,31,0,161
+1283,75556,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,36,1,5.5,27,1,31,1,161
+1284,75557,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,Mohammed Shami,37,1,5.6,27,1,32,1,161
+1285,75558,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,PJ Cummins,37,1,6.1,27,1,32,1,161
+1286,75559,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,PJ Cummins,38,1,6.2,22,1,33,1,161
+1287,75561,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,PJ Cummins,40,1,6.4,24,1,34,2,161
+1288,75569,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,A Mishra,48,1,7.6,29,1,34,10,161
+1289,75574,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,CJ Anderson,58,1,8.5,31,1,35,19,161
+1290,75577,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,S Nadeem,61,1,9.2,32,1,36,21,161
+1291,75583,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,CJ Anderson,68,1,10.2,33,0,37,27,161
+1292,75586,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,CJ Anderson,70,1,10.5,34,0,38,28,161
+1293,75589,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,A Mishra,78,1,11.2,40,0,44,30,161
+1294,75590,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,A Mishra,79,1,11.3,40,0,45,30,161
+1295,75595,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,CJ Anderson,92,1,12.2,49,0,46,42,161
+1296,75597,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,CJ Anderson,94,1,12.4,47,0,47,43,161
+1297,75599,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,CJ Anderson,96,1,12.6,48,0,48,44,161
+1298,75600,614,14/05/2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle,S Nadeem,96,2,13.1,42,1,48,44,161
