@@ -1,0 +1,37 @@
+git config -l
+git config --global user.name "Fabio"
+git config --global user.email "signups@fabiopacifici.com"
+git status
+git status -s
+git init
+git add model.ipynb
+git add -A  --------- Add all files to staging
+git add .
+git commit
+git commit -m "your commit message here"
+git checkout model.ipynb
+git checkout -f   ---- Checkout all files
+git log
+git log -p -1
+git diff   ------ Compares working with staging
+git diff --staged     ---------- Compares staging with last commit
+
+git commit -a -m "some message"   ---- Directly commits without staging
+git rm filename ----Removes from working directory
+git rm --cached filename  --- Removes from staging
+
+touch .gitignore
+git branch demo
+git checkout -b demo2
+
+git checkout master
+
+git merge demo
+
+git push -u origin master
+
+ssh-keygen -t rsa -b 4096 -C "anilgujiri18@gmail.com"
+
+git remote set-url origin
+
+git ls-tree --name-only -r master
