@@ -1,0 +1,403 @@
+Ross Robert
+CRAN - Comprehension R archieve Network
+help.search("data input")
+CTRL+L  --- Clear console
+
+Variable :
+var_name <- 10
+var.name <-10
+.var_name <- 10
+_var_name ----- Error
+5var_name ----- Error
+
+
+DataTypes:
+logical
+Numeric
+Character
+Integer
+Complex
+Raw - a <- charToRaw("R CODER")
+
+
+mystring <- "Hello"
+print(mystring)
+
+Convert datatypes:
+
+a<-as.integer(a)
+a<-as.character(a)
+a<-as.logical(a)
+a<-as.numeric(a)
+
+v <- TRUE 
+print(class(v))
+typeof(v)
+
+v <- 23.5
+print(class(v))
+
+v <- "TRUE"
+print(class(v))
+
+
+Operators:
+Arithmatic + - * / %% %/% ^
+a=10
+b=20
+
+a+b
+a-b
+a*b
+a/b
+a%%b    --- Remainder
+a%/%b   --- Quotient
+a^b
+
+
+a<-c(1,2,3)
+b<-c(4,5,6)
+
+Logical & && | || ! 
+
+Relational -  < > == != >= <=
+
+Assignment  = <- -> <<- ->>
+
+
+Statements and Loops:
+
+If:
+a <- 33
+b <- 200
+
+if (b > a) {
+  print("b is greater than a")
+}
+
+if elseif:
+a <- 33
+b <- 33
+
+if (b > a) {
+  print("b is greater than a")
+} else if (a == b) {
+  print ("a and b are equal")
+}
+
+
+if else:
+a <- 200
+b <- 33
+
+if (b > a) {
+  print("b is greater than a")
+} else if (a == b) {
+  print("a and b are equal")
+} else {
+  print("a is greater than b")
+}
+
+nested if:
+x <- 41
+
+if (x > 10) {
+  print("Above ten")
+  if (x > 20) {
+    print("and also above 20!")
+  } else {
+    print("but not above 20.")
+  }
+} else {
+  print("below 10.")
+}
+
+
+
+Example:
+a <- 200
+b <- 33
+c <- 500
+
+if (a > b & c > a) {
+  print("Both conditions are true")
+}
+
+
+
+To know all the variables currently available in the workspace we use the ls() function. Also the ls() function can use patterns to match the variable names.
+
+print(ls())
+print(ls(pattern = "var"))   
+
+
+Deleting Variables
+Variables can be deleted by using the rm() function. Below we delete the variable var.3. On printing the value of the variable error is thrown.
+
+rm(var)
+
+
+All the variables can be deleted by using the rm() and ls() function together.
+
+rm(list = ls())
+print(ls())
+
+
+While:
+
+i <- 1
+while (i < 6) {
+  print(i)
+  i <- i + 1
+}
+
+v <- c("Hello","while loop")
+cnt <- 2
+
+while (cnt < 7) {
+   print(v)
+   cnt = cnt + 1
+}
+
+for Loop:
+my_range <- 5:10   
+for(i in my_range) {
+  print("Hello world")
+ }
+
+For:
+v <- LETTERS[1:4]
+for ( i in v) {
+   print(i)
+}
+
+
+Repeat:
+
+v <- c("Hello","loop")
+cnt <- 2
+
+repeat {
+   print(v)
+   cnt <- cnt+1
+   
+   if(cnt > 5) {
+      break
+   }
+}
+
+break:
+v <- c("Hello","loop")
+cnt <- 2
+
+
+next:
+v <- LETTERS[1:6]
+for ( i in v) {
+   
+   if (i == "D") {
+      next
+   }
+   print(i)
+}
+
+
+
+
+Functions:
+
+Built in Functions:
+# Create a sequence of numbers from 32 to 44.
+print(seq(32,44))
+
+# Find mean of numbers from 25 to 82.
+print(mean(25:82))
+
+# Find sum of numbers frm 41 to 68.
+print(sum(41:68))
+
+https://cran.r-project.org/doc/contrib/Short-refcard.pdf
+
+
+
+User-defined Function:
+my_function <- function() { # create a function with the name my_function
+  print("Hello World!")
+}
+
+my_function <- function(fname) {
+  #cat(fname, " ", "Griffin")
+  paste(fname, " ", "Griffin")
+}
+
+my_function("Peter")
+my_function("Lois")
+my_function("Stewie")
+
+Calling a Function with Argument Values
+
+# Create a function with arguments.
+new.function <- function(a,b,c) {
+   result <- a * b + c
+   print(result)
+}
+
+# Call the function by position of arguments.
+new.function(5,3,11)
+
+# Call the function by names of the arguments.
+new.function(a = 11, b = 5, c = 3)
+
+Default Arguments:
+my_function <- function(country = "Norway") {
+  paste("I am from", country)
+}
+
+my_function("Sweden")
+my_function("India")
+my_function() # will get the default value, which is Norway
+my_function("USA")
+
+
+
+Lazy Eavaluation:
+# Create a function with arguments.
+new.function <- function(a, b) {
+   print(a^2)
+   print(a)
+   print(b)
+}
+
+# Evaluate the function without supplying one of the arguments.
+new.function(6)
+
+
+
+
+Vectors
+apple <- c('red','green',"yellow")
+print(apple)
+
+# Get the class of the vector.
+print(class(apple))
+
+
+
+Lists
+A list is an R-object which can contain many different types of elements inside it like vectors, functions and even another list inside it.
+
+
+# Create a list.
+list1 <- list(c(2,5,3),21.3,sin)
+
+# Print the list.
+print(list1)
+
+
+Matrices
+A matrix is a two-dimensional rectangular data set. It can be created using a vector input to the matrix function.
+
+M = matrix( c('a','a','b','c','b','a'), nrow = 2, ncol = 3, byrow = TRUE)
+print(M)
+
+
+Arrays
+While matrices are confined to two dimensions, arrays can be of any number of dimensions. The array function takes a dim attribute which creates the required number of dimension. In the below example we create an array with two elements which are 3x3 matrices each.
+
+# Create an array.
+a <- array(c('green','yellow'),dim = c(3,3,2))
+print(a)
+
+Data Frames
+Data frames are tabular data objects. Unlike a matrix in data frame each column can contain different modes of data. 
+
+# Create the data frame.
+BMI <- 	data.frame(
+   gender = c("Male", "Male","Female"), 
+   height = c(152, 171.5, 165), 
+   weight = c(81,93, 78),
+   Age = c(42,38,26)
+)
+print(BMI)
+
+Perform Simple Dataframe operations:
+
+Create Dataframe:
+emp.data <- data.frame(
+   emp_id = c (1:5), 
+   emp_name = c("Rick","Dan","Michelle","Ryan","Gary"),
+   salary = c(623.3,515.2,611.0,729.0,843.25), 
+   
+   start_date = as.Date(c("2012-01-01", "2013-09-23", "2014-11-15", "2014-05-11",
+      "2015-03-27"))
+)
+# Print the data frame.			
+print(emp.data) 
+
+print(summary(emp.data))  
+
+# Extract Specific columns.
+result <- data.frame(emp.data$emp_name,emp.data$salary)
+print(result)
+
+# Extract first two rows.
+result <- emp.data[1:2,]
+print(result)
+
+# Extract 3rd and 5th row with 2nd and 4th column.
+result <- emp.data[c(3,5),c(2,4)]
+print(result)
+
+
+# Add the "dept" coulmn.
+emp.data$dept <- c("IT","Operations","IT","HR","Finance")
+v <- emp.data
+print(v)
+
+
+Imports:
+print(getwd())
+setwd("/web/com")
+
+Read file
+data <- read.csv("salary.csv")
+print(data)
+print(is.data.frame(data))
+print(ncol(data))
+print(nrow(data))
+head(data,4)
+
+Get the maximum salary
+sal <- max(data$salary)
+print(sal)
+
+# Get the person detail having max salary.
+retval <- subset(data, salary == max(salary))
+print(retval)
+
+Get all the people working in IT department
+retval <- subset( data, dept == "IT")
+print(retval)
+
+
+Get the persons in IT department whose salary is greater than 600
+info <- subset(data, salary > 600 & dept == "IT")
+print(info)
+
+Get the people who joined on or after 2014
+retval <- subset(data, as.Date(start_date) > as.Date("2014-01-01"))
+print(retval)
+
+
+
+Writing into a CSV File
+
+# Create a data frame.
+data <- read.csv("input.csv")
+retval <- subset(data, as.Date(start_date) > as.Date("2014-01-01"))
+
+# Write filtered data into a new file.
+write.csv(retval,"output.csv")
+#write.csv(retval,"output.csv", row.names = FALSE)
+newdata <- read.csv("output.csv")
+print(newdata)       
